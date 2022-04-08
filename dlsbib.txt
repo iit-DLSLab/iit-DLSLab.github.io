@@ -1,0 +1,1321 @@
+@MISC{clemente22icra,
+AUTHOR = {Clemente, Luca and Villarreal, Octavio and Bratta, Angelo and Focchi, Michele and Barasuol, Victor and Muscolo, Giovanni Gerardo and Semini, Claudio},
+TITLE = {Foothold Evaluation Criterion for Dynamic Transition Feasibility for
+Quadruped Robots},
+YEAR = {2022},
+ARCHIVE PREFIX = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)} 
+PRIMARY CLASS = {cs.RO},
+NOTE = {accepted},
+}
+
+@MISC{abdalla20efficient,
+AUTHOR = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio},
+TITLE = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
+YEAR = {2020},
+EPRINT = {2011.07967},
+ARCHIVE PREFIX = {arXiv} 
+PRIMARY CLASS = {cs.RO},
+}
+
+@misc{rathod21access,
+      title={Model Predictive Control with Environment Adaptation for Legged Locomotion}, 
+      author={Niraj Rathod and Angelo Bratta and Michele Focchi and Mario Zanon and Octavio Villarreal and Claudio Semini and Alberto Bemporad},
+      year={2021},
+      eprint={2105.05998},
+      archivePrefix={IEEE Access},
+      primaryClass={cs.RO}
+      volume={9},
+      number={},
+      pages={145710-145727},
+      doi={10.1109/ACCESS.2021.3118957}}
+}
+
+@Article{fahmi21lsens,
+AUTHOR = {Fahmi, Shamel and Fink, Geoff and Semini, Claudio},
+TITLE = {On State Estimation for Legged Locomotion over Soft Terrain},
+JOURNAL = {{IEEE Sensors Letters (L-SENS)}},
+YEAR = {2021},
+MONTH = {Jan.},
+VOLUME = {5},
+NUMBER = {1},
+PAGES = {1--4},
+} 
+
+@Article{mastalli20tro,
+Author = {Mastalli, Carlos and Havoutis, Ioannis and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
+Title = {Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control},
+Journal = {{IEEE} Trans. Robot. ({T-RO})},
+Year = {2020},
+Pages = {1--14},
+} 
+
+@ARTICLE{raiola20frontiers,
+AUTHOR = {Raiola, Gennaro and Hoffman, Enrico Mingo and Focchi, Michele and Tsagarakis, Nikos and Semini, Claudio},
+TITLE = {A simple yet effective whole-body locomotion framework for quadruped robots},
+JOURNAL = {Frontiers in Robotics and AI},
+YEAR = {2020},
+URL = {https://www.frontiersin.org/articles/10.3389/frobt.2020.528473/full},
+DOI = {10.3389/frobt.2020.528473},
+}
+
+@ARTICLE{orsolino19tro,
+AUTHOR = {Orsolino, Romeo and Focchi, Michele and Caron Stéphane and Raiola, Gennaro and Barasuol, Victor and Darwin G. Caldwell and Semini, Claudio},
+TITLE = {Feasible Region: an Actuation-Aware Extension of the Support Region},
+JOURNAL = {{IEEE Transactions on Robotics (T-RO)}},
+YEAR = {2020},
+MONTH = {Aug.},
+VOLUME = {36},
+NUMBER = {4},
+PAGES = {1239 - 1255},
+} 
+
+@Article{fahmi2019tro,
+Title = {{STANCE}: Locomotion Adaptation over Soft Terrain},
+Author = {Fahmi, Shamel and Focchi, Michele and Radulescu, Andreea and Fink, Geoff and Barasuol, Victor and Semini, Claudio},
+Journal = {{IEEE} Trans. Robot. ({T-RO})},
+Year = {2019},
+Month = {Oct.},
+Pages = {1--15},
+} 
+
+@Inbook{focchi2020star, 
+author={"Focchi, Michele and Orsolino, Romeo and Camurri, Marco and Barasuol, Victor and Mastalli, Carlos and Caldwell, Darwin G. and Semini, Claudio"},
+title={Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality},
+bookTitle={Advances in Robotics Research: From Lab to Market: ECHORD++: Robotic Science Supporting Innovation},
+year={2020},
+publisher= {Springer International Publishing},
+pages={165--209},
+isbn={978-3-030-22327-4},
+doi={10.1007/978-3-030-22327-4_9},
+url={https://doi.org/10.1007/978-3-030-22327-4_9}
+}
+
+@Article{fahmi2019ral,
+Title = {Passive Whole-Body Control for Quadruped Robots: Experimental Validation Over Challenging Terrain},
+Author = {Fahmi, Shamel and Mastalli, Carlos and Focchi, Michele and Semini, Claudio},
+Journal = {{IEEE} Robot. Automat. Lett. ({RA-L})},
+Year = {2019},
+Month = {Jul.},
+Number = {3},
+Pages = {2553--2560},
+Volume = {4},
+Doi = {10.1109/LRA.2019.2908502},
+} 
+
+@ARTICLE{villarreal19ral,
+author={Villarreal, Octavio and Barasuol, Victor and Camurri, Marco and Franceschi, Luca and Focchi, Michele and Pontil, Massimiliano and Caldwell, Darwin Gordon and Semini, Claudio},
+journal={IEEE Robotics and Automation Letters},
+title={Fast and Continuous Foothold Adaptation for Dynamic Locomotion through CNNs},
+year={2019},
+volume={},
+number={},
+pages={1-1},
+video={https://www.youtube.com/watch?v=rxn79dPnaCI},
+keywords={Legged locomotion;Robot sensing systems;Foot;Visualization;Trajectory;Legged Robots;Reactive and Sensor-Based Planning;Deep Learning in Robotics and Automation},
+doi={10.1109/LRA.2019.2899434},
+ISSN={2377-3766},
+month={},}
+
+@ARTICLE{frontiers18barasuol,
+author = {Barasuol, Victor and Villarreal-Magaña, Octavio A. and Sangiah, Dhinesh and Frigerio, Marco and Baker, Mike and Morgan, Robert and Medrano-Cerda, Gustavo A. and Caldwell, Darwin Gordon          and Semini, Claudio},   
+title = {Highly-Integrated Hydraulic Smart Actuators and Smart Manifolds 
+for High-Bandwidth Force Control},      
+journal = {Frontiers in Robotics and AI},      
+volume = {5},      
+pages = {51},     
+year = {2018},      
+url = {https://www.frontiersin.org/article/10.3389/frobt.2018.00051},       
+doi = {10.3389/frobt.2018.00051},      
+issn = {2296-9144},   
+}
+ 
+
+@INPROCEEDINGS{gonzalez20iros,
+AUTHOR = {Gonzalez, Carlos and Barasuol, Victor and Frigerio, Marco and Featherstone, Roy and Caldwell, Darwin G. and Semini, Claudio},
+BOOKTITLE = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+TITLE = {Line Walking and Balancing for Legged Robots with Point Feet},
+YEAR = {2020},
+} 
+
+@INPROCEEDINGS{fink20iros,
+AUTHOR = {Fink, Geoff and Semini, Claudio},
+BOOKTITLE = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})},
+TITLE = {Proprioceptive Sensor Fusion for Quadruped Robot State Estimation},
+PAGES = {1--7},
+ADDRESS = {Las Vegas, Nevada},
+MONTH = {Oct.},
+YEAR = {2020}, 
+} 
+
+@INPROCEEDINGS{esteban20clawar,
+AUTHOR = {Esteban, Domingo and Villarreal, Octavio and Fahmi, Shamel and Semini, Claudio and Barasuol, Victor},
+BOOKTITLE = {International Conference on Climbing and Walking Robots ({CLAWAR})},
+TITLE = {{On the Influence of Body Velocity in Foothold Adaptation for Dynamic Legged Locomotion via CNNs}},
+PAGES = {353-360},
+ADDRESS = {Moscow, Russia},
+MONTH = {Aug.},
+YEAR = {2020},
+}  
+
+@INPROCEEDINGS{fink20clawar,
+AUTHOR = {Fink, Geoff and Semini, Claudio},
+BOOKTITLE = {International Conference on Climbing and Walking Robots ({CLAWAR})},
+TITLE = {The {DLS} Quadruped Proprioceptive Sensor Dataset},
+PAGES = {1--8},
+ADDRESS = {Moscow, Russia},
+MONTH = {Aug.},
+YEAR = {2020},
+} 
+
+
+@InProceedings{bratta2020icra,
+Title = {On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics},
+Author = {Angelo {Bratta}, Romeo {Orsolino}, Michele {Focchi}, Victor {Barasuol}, Giovanni Gerardo {Muscolo} and Claudio {Semini}},
+Booktitle = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)},
+Year = {2020},
+Month = {May},
+Address = {Paris, France},
+pages={1417-1423},
+doi={10.1109/ICRA40945.2020.9196903}}
+} 
+
+@InProceedings{villarreal2020icra,
+Title = {MPC-based Controller with Terrain Insight for Dynamic Legged Locomotion},
+Author = {Octavio {Villarreal} and Victor {Barasuol} and Patrick {Wensing} and Claudio {Semini}},
+Booktitle = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)},
+Year = {2020},
+Month = {May},
+Address = {Paris, France},
+} 
+
+@InProceedings{urbain2020,
+Title = {Stance Control Inspired by Cerebellum Stabilizes Reflex-Based Locomotion on HyQ Robot},
+Author = {Gabriel {Urbain}, Victor {Barasuol}, Claudio {Semini}, Joni {Dambre} and Francis {wyffels}},
+Booktitle = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)},
+Year = {2020},
+Month = May,
+Address = {Paris, France},
+} 
+
+@inproceedings{fink19iros,
+  author    = {Geoff Fink, Claudio Semini},
+  title     = {Proprioceptive Sensor Dataset for Quadrupeds},
+  month	    = {Nov},
+  pages     = {1--5},
+  year      = {2019},
+  maintitle = {Int. Conf. on Intell. Robots and Syst. (IROS)},
+  booktitle = {Workshop on Visual-Inertial Navigation: Challenges and Applications},
+  address = {Macao, China},
+}
+
+@INPROCEEDINGS{barasuol19clawar,
+author={V. {Barasuol} and G. {Fink} and M. {Focchi} and D. G. {Caldwell} and C. {Semini}},
+booktitle={International Conference on Climbing and Walking Robots (CLAWAR)},
+title={On the Detection and Localization of Shin Collisions and Reactive Actions in Quadruped Robots},
+year={2019},
+month={Oct},}
+
+@INPROCEEDINGS{reinke19irc
+AUTHOR = {A. {Reinke} and M. {Camurri} and C. {Semini},
+BOOKTITLE = {2019 Third IEEE International Conference on Robotic Computing (IRC)},
+TITLE = {A Factor Graph Approach to Multi-Camera Extrinsic Calibration on Legged Robots},
+YEAR = {2019},
+VOLUME = {},
+NUMBER = {},
+PAGES = {391-394},
+} 
+
+@PATENT{focchi12,
+NATIONALITY = {ARIPO, Eruasian, European},
+NUMBER = {WO 2012/004738 Al},
+YEAR = {2012},
+YEARFILED = {2013},
+AUTHOR = {Focchi, Michele and Guglielmino, Emanuele and Pane, Gianluca and Cordasco, Stefano and Tacchino, Carlo and Caldwell, Darwin G},
+TITLE = {Device for generating electric power from a source of air or other gas or fluid under pressure},
+__MARKEDENTRY = {[mfocchi:6]},
+OWNER = {mfocchi},
+TIMESTAMP = {2013.03.13},
+} 
+
+
+@INPROCEEDINGS{focchi10iros,
+author={M. {Focchi} and E. {Guglielmino} and C. {Semini} and A. {Parmiggiani} and N. {Tsagarakis} and B. {Vanderborght} and D. G. {Caldwell}},
+booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+title={Water/air performance analysis of a fluidic muscle},
+year={2010},
+volume={},
+number={},
+pages={2194-2199},
+keywords={flow control;fluidic devices;hydraulic systems;mobile robots;pneumatic actuators;pneumatic control equipment;water-air performance analysis;fluidic muscle;energetic point;higher bulk modulus;pressure bandwidth;force bandwidth;load variations;hydraulic stiff actuation system;hydraulic system pressure;water bulk modulus;unconventional pressure range;Muscles;Bandwidth;Valves;Force;Regulators;Robots;Pressure measurement},
+doi={10.1109/IROS.2010.5650432},
+ISSN={2153-0866},
+month={Oct},}
+
+@INPROCEEDINGS{focchi10icra,
+author={M. {Focchi} and E. {Guglielmino} and C. {Semini} and T. {Boaventura} and Y. {Yang} and D. G. {Caldwell}},
+booktitle={IEEE International Conference on Robotics and Automation},
+title={Control of a hydraulically-actuated quadruped robot leg},
+year={2010},
+volume={},
+number={},
+pages={4182-4188},
+keywords={hydraulic actuators;legged locomotion;mobile robots;motion control;hydraulically-actuated quadruped robot leg;autonomous quadruped robot;hip joints;knee joints;actuation system;proportional valves;asymmetric cylinders;PED controller;linear quadratic regulator;feedback linearisation controller;Legged locomotion;Leg;MIMO;Linear feedback control systems;Frequency;Biological system modeling;Biological control systems;Robots;Hip;Knee},
+doi={10.1109/ROBOT.2010.5509697},
+ISSN={1050-4729},
+month={May},}
+
+
+
+@PHDTHESIS{villarreal20phd,
+AUTHOR = {Villarreal, Octavio},
+TITLE = {Bridging Vision and Dynamic Legged Locomotion},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2020},
+OWNER = {phd},
+TIMESTAMP = {2020.03.30},
+} 
+
+@PHDTHESIS{orsolino19phd,
+AUTHOR = {Orsolino, Romeo},
+TITLE = {Actuation-Aware Simplified Dynamic Models for Robotic Legged Locomotion},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2019},
+OWNER = {phd},
+TIMESTAMP = {2020.03.30},
+} 
+
+@PHDTHESIS{gao18phd,
+  author = {Gao, Yifu},
+  title = {Towards the Design and Evaluation of Robotic Legs of Quadruped Robots},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2018},
+  owner = {phd},
+  timestamp = {2017.09.29}
+}
+
+
+@ARTICLE{orsolino18ral,
+author = {Orsolino, Romeo and Focchi, Michele and Mastalli, Carlos and Dai, Hongkai and Caldwell, G. D. and Semini, Claudio},
+title = {Application of Wrench Based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots},
+booktitle = {IEEE Robotics and Automation Letters},
+year = {2018},
+video={https://youtu.be/vUx5b5kfRfE},
+doi = {10.1109/LRA.2018.2836441}
+}
+
+@ARTICLE{raiola18ral,
+author = {G. Raiola and C. A. Cardenas and T. S. Tadele and T. De Vries and S. Stramigioli},
+title = {Development of a Safety and Energy Aware Impedance Controller for Collaborative Robots},
+booktitle = {IEEE Robotics and Automation Letters},
+doi = {10.1109/LRA.2018.2795639},
+year = {2018},
+video={https://www.youtube.com/watch?v=tFSSHXn5cGI}
+}
+
+@PHDTHESIS{camurri17phd,
+  author = {Camurri, Marco},
+  title = {Multisensory State Estimation and Mapping on Dynamic Legged Robots},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2017},
+  owner = {phd},
+  timestamp = {2017.09.29}
+}
+
+@PHDTHESIS{mastalli17phd,
+  author = {Mastalli, Carlos},
+  title = {Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2017},
+  owner = {phd},
+  timestamp = {2017.09.29}
+}
+
+@ARTICLE{aceituno_mastalli17ral,
+  author = {Aceituno-Cabezas, Bernardo and Mastalli, Carlos and Dai, Hongkai and Focchi, Michele and Radulescu, Andreea and Caldwell, Dawrin G. and Cappelletto J. and Grieco, J. C. and Fernandez-Lopez G. and Semini, Claudio},
+  booktitle = {IEEE Robotics and Automation Letters},
+  title = {Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization},
+  doi={10.1109/LRA.2017.2779821},
+  year = {2017},
+  video={https://www.youtube.com/watch?v=RXIAQJx5938}
+}
+
+@ARTICLE{raiola17joss,
+  author = {Chitta, Sachin and Marder-Eppstein, Eitan and Meeussen, Wim and Pradeep, Vijay and Rodriguez Tsouroukdissian, Adolfo and Bohren, Jonathan and Coleman, David and Magyar, Bence and Raiola, Gennaro and Luedtke, Mathias and Fernandez Perdomo, Enrique},
+  booktitle = {The Journal of Open Source Software},
+  title = {ros_control: A generic and simple control framework for ROS},
+  year = {2017},
+  doi={10.21105/joss.00456}
+}
+
+@ARTICLE{giftthaler17advr,
+  author = {Giftthaler, Markus and Neunert, Micheal and Staeuble, Markus and Frigerio, Marco and Semini, Claudio and Buchli, Jonas},
+  booktitle = {Advanced Robotics},
+  title = {Automatic differentiation of rigid body dynamics for optimal control and estimation},
+  volume = {0},
+  number = {0},
+  pages = {1-13},
+  year  = {2017},
+  publisher = {Taylor & Francis},
+  year = {2017},
+  URL = {http://dx.doi.org/10.1080/01691864.2017.1395361},
+  doi={10.1080/01691864.2017.1395361}
+}
+
+@ARTICLE{khan17sensors,
+  author = {Khan, Hamza and D'Imperio, Mariapaola and Cannella, Ferdinando and Caldwell, Darwin G. and Cuschieri, Alfred and Semini, Claudio},
+  booktitle = {Sensors},
+  title = {Towards Scalable Strain Gauge-Based Joint Torque Sensors},
+  year = {2017},
+  doi={10.3390/s17081905}
+}
+
+@INPROCEEDINGS{heijmink17humanoids,
+  author = {Heijmink, Elco and Radulescu, Andreea and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {12th IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2017},
+  title = {Learning Optimal Gait Parameters and Impedance Profiles for Legged Locomotion},
+  year = {2017}
+}
+
+@INPROCEEDINGS{focchi17iros,
+  author = {Focchi, Michele and Featherstone, Roy and Orsolino, Romeo and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title = {Viscosity-based Height Reflex for Workspace Augmentation for Quadrupedal  Locomotion on Rough Terrain},
+  year = {2017}
+}
+
+@INPROCEEDINGS{tournois17iros,
+  author = {Tournois, Guido and Focchi, Michele and del Prete, Andrea and Orsolino, Romeo and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title = {Online Payload Identification for Quadruped Robots},
+  year = {2017}
+}
+
+@ARTICLE{dollar17ram,
+  author = {Dollar,  A. and Semini, C. and Cho,  K. and Ciocarlie M.},
+  booktitle = {IEEE Robotics and Automation Magazine},
+  title = {Bringing Together Researchers in Robot Mechanisms and Design},
+  year = {2017},
+  doi={10.1109/MRA.2016.2646069}
+}
+
+@ARTICLE{mattila17asme-tmech,
+  author = {Mattila, J. and Semini, C. and Moon, H. and Buchli, J.and Hyon, S. and Li, P.Y. and Yao, B.},
+  booktitle = {IEEE/ASME Transactions on Mechatronics},
+  title = {Guest editorial introduction to the focused section on design andcontrol of hydraulic robots},
+  year = {2017},
+  doi={10.1109/TMECH.2017.2668611},
+  url = {http://dx.doi.org/10.1109/TMECH.2017.2668611}
+}
+
+@INPROCEEDINGS{koivumaki17fpmc,
+  author = {Koivumaki, J. and Mattila, J. and Semini, Claudio and Caldwell, Darwin G.},
+  booktitle = {ASME Symposium on Fluid Power and Motion Control (FPMC)},
+  title = {Stability-Guaranteed Nonlinear Model-Based Control of Hydraulically Actuated Lightweight Structures},
+  year = {2017}
+}
+
+@INPROCEEDINGS{gao17icarm,
+  author = {Gao, Yifu and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {International Conference on Advanced Robotics and Mechatronics (ICARM)},
+  title = {Kinematic Design of a Configurable Terrain Simulator Platform for Robotic Legs},
+  year = {2017}
+}
+
+@INPROCEEDINGS{frigerio17clawar,
+  author = {Frigerio, Marco and Barasuol, Victor and Focchi, Michiele and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {International Conference on Climbing and Walking Robots (CLAWAR)},
+  title = {Validation of Computer Simulations of the HyQ robot},
+  year = {2017}
+}
+
+@INPROCEEDINGS{nobili_camurri2017rss,
+     AUTHOR    = {Nobili, S. and Camurri, M. and Barasuol, V. and Focchi, M. and Caldwell, D. G. and Semini, C. and Fallon, M.},
+     TITLE     = {Heterogeneous Sensor Fusion for Accurate State Estimation of Dynamic Legged Robots},
+     BOOKTITLE = {Proceedings of Robotics: Science and Systems},
+     YEAR      = {2017},
+     ADDRESS   = {Boston, USA},
+     MONTH     = {July}
+}
+
+@INPROCEEDINGS{rehman17clawar,
+  author = {Rehman, Bilal U and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {International Conference on Climbing and Walking Robots (CLAWAR)},
+  title = {Centaur Robots - a Survey},
+  year = {2017}
+}
+
+@INPROCEEDINGS{orsolino17clawar,
+  author = {Orsolino, Romeo and Focchi, Michele and Caldwell, Darwin G. and Semini,
+  Claudio},
+  booktitle = {International Conference on Climbing and Walking Robots (CLAWAR)},
+  title = {A Combined Limit Cycle - Zero Moment Point based Approach for Omni-Directional Quadrupedal Bounding},
+  year = {2017}
+}
+
+@INPROCEEDINGS{mastalli17icra,
+	author = {Mastalli, Carlos and Focchi, Michele and Havoutis, Ioannis and Radulescu,
+	Andreea and Calinon, Sylvain and Buchli, Jonas and Caldwell, Darwin G. and Semini,
+	Claudio},
+	booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+	title = {Trajectory and Foothold Optimization using Low-Dimensional Models for
+	Rough Terrain Locomotion},
+	year = {2017}
+}
+
+@INPROCEEDINGS{radulescu17icra,
+	author = {Radulescu, Andreea and Havoutis, Ioannis and Caldwell, Darwin G. and Semini, Claudio},
+	title = {Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems},
+	booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+	year = {2017}
+}
+
+@CONFERENCE{radulescu16hfr,
+  author = {Radulescu, Andreea and Havoutis, Ioannis and Caldwell, Darwin G. and Semini, Claudio},
+  title = {Optimization for Non-Periodic Dynamic Motions of Legged Systems},
+  journal = {Human Friendly Robotics},
+  year = {2016},
+  owner = {aradulescu},
+  timestamp = {2016.12.05}
+}
+
+@ARTICLE{mattila17tmech,
+author={Mattila, Jouni and Koivumaki, Janne and Caldwell, Darwin G. and
+Semini, Claudio},
+journal={IEEE/ASME Transactions on Mechatronics},
+title={A Survey on Control of Hydraulic Robotic Manipulators with
+Projection to Future Trends},
+year={2017},
+volume={PP},
+number={99},
+pages={1-1},
+keywords={Actuators;Legged locomotion;Manipulators;Service
+robots;Stability analysis;force control;hydraulic manipulators;motion
+control;performance evaluation;robotics},
+doi={10.1109/TMECH.2017.2668604},
+ISSN={1083-4435},
+month={},}
+
+@ARTICLE{camurri17ral,
+author={M. Camurri and M. Fallon and S. Bazeille and A. Radulescu and V.
+Barasuol and D. G. Caldwell and C. Semini},
+journal={IEEE Robotics and Automation Letters},
+title={Probabilistic Contact Estimation and Impact Detection for State
+Estimation of Quadruped Robots},
+year={2017},
+volume={2},
+number={2},
+pages={1023-1030},
+keywords={Estimation;Foot;Legged locomotion;Robot kinematics;Robot
+sensing systems;Localization;multilegged robots;sensor fusion},
+doi={10.1109/LRA.2017.2652491},
+ISSN={2377-3766},
+month={April},
+}
+
+@INPROCEEDINGS{neunert16simpar,
+  author = {Neunert, Michael and Giftthaler, Markus and Frigerio, Marco and Semini, Claudio and Buchli, Jonas},
+  title = {Fast Derivatives of Rigid Body Dynamics for Control, Optimization and Estimation},
+  booktitle = {IEEE International Conference on Simulation, Modeling and Programming for Autonomous Robots (SIMPAR)},
+  year = {2016}
+}
+
+@CONFERENCE{orsolino16hfr,
+  author = {Orsolino, Romeo and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
+  title = {An Asymmetric Model for Quadrupedal Bounding in Place},
+  journal = {Human Friendly Robotics},
+  year = {2016},
+  owner = {rorsolino},
+  timestamp = {2016.12.05}
+}
+
+@INPROCEEDINGS{gao16robio,
+  author = {Gao, Yifu and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
+  title = {Study on the Morphological Parameters of Quadruped Robot Designs Considering Ditch Traversability},
+  booktitle = {IEEE/RSJ International Conference on Robotics and Biomimetics (ROBIO)},
+  year = {2016}
+}
+
+@ARTICLE{tmech16semini,
+  author={Semini, Claudio and Barasuol, Victor and Goldsmith, Jake and Frigerio, Marco and Focchi, Michele and Gao, Yifu and Caldwell, Darwin G.},
+  journal={IEEE/ASME Transactions on Mechatronics},
+  title={Design of the Hydraulically-Actuated, Torque-Controlled Quadruped Robot HyQ2Max},
+  year={2016},
+  volume={PP},
+  number={99},
+  pages={1-1},
+  keywords={Actuators;Biological system modeling;Couplings;Legged locomotion;Mechatronics;Vehicle dynamics},
+  doi={10.1109/TMECH.2016.2616284},
+  ISSN={1083-4435}
+}
+
+@ARTICLE{frigerio2016robcogen,
+   author       = {Frigerio, Marco and Buchli, Jonas and Caldwell, Darwin G. and Semini, Claudio },
+   title        = {RobCoGen: a code generator for efficient kinematics and dynamics of articulated robots, based on Domain Specific Languages},
+   journal = {Journal of Software Engineering for Robotics (JOSER)},
+   year         = {2016},
+   date         = {July},
+   volume       = {7},
+   number       = {1},
+   issue        = {Special Issue on Domain-Specific Languages and Models for Robotic Systems},
+   pages        = {36--54},
+   url={http://joser.unibg.it/index.php?journal=joser&page=article&op=view&path%5B%5D=98}
+}
+
+@ARTICLE{focchi2016,
+  author="Focchi, Michele and del Prete, Andrea and Havoutis, Ioannis and Featherstone, Roy and Caldwell, Darwin G. and Semini, Claudio",
+  title="High-slope terrain locomotion for torque-controlled quadruped robots",
+  journal="Autonomous Robots",
+  year="2017",
+  volume= "41",
+  number= "1",
+  pages="259-272",
+  doi="10.1007/s10514-016-9573-1",
+  url="http://dx.doi.org/10.1007/s10514-016-9573-1",
+  ISSN="1083-4435"
+}
+
+@ARTICLE{focchi16ctt,
+  author="Focchi, Michele and Medrano-Cerda, Gustavo A. and Boaventura, Thiago and Frigerio, Marco and Semini, Claudio and Buchli, Jonas and Caldwell, Darwin G.",
+  title="Robot impedance control and passivity analysis with inner torque and velocity feedback loops",
+  journal="Control Theory and Technology",
+  year="2016",
+  issn="2198-0942",
+  doi="10.1007/s11768-016-5015-z",
+  url="http://dx.doi.org/10.1007/s11768-016-5015-z"
+}
+
+@INPROCEEDINGS{icra16brehman,
+  author = {Rehman, Bilal U and Focchi, Michele and Lee, Jinoh  and Dallali, Houman and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  title = {Towards a Multi-legged Mobile Manipulator},
+  month = may,
+  publisher = {IEEE},
+  year = {2016},
+  doi = {10.1109/ICRA.2016.7487545}
+}
+
+@INPROCEEDINGS{kuwahara16acm,
+  author = {Kuwahara, Hiroaki and Terai, Fujio and Focchi, Michele and  Medrano-Cerda, Gustavo A. and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {IEEE International Workshop on Advanced Motion Control (AMC)},
+  title = {A Design Method of A Robust Controller for Hydraulic Actuation with Disturbance Observers},
+  month = {april},
+  publisher = {IEEE},
+  year = {2016},
+  doi = {10.1109/AMC.2016.7496365}
+}
+
+@INPROCEEDINGS{icra16mastalli,
+  author = {Mastalli, Carlos and Havoutis, Ioannis and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  title = {Hierarchical Planning of Dynamic Movements without Scheduled Contact Sequences},
+  month = may,
+  publisher = {IEEE},
+  year = {2016},
+  doi = {10.1109/ICRA.2016.7487664}
+}
+
+@INCOLLECTION{raey,
+  author = {Caldwell, Darwin G. and Tsagarakis, Nikos and Semini, Claudio},
+  title = {Mechanism and Structures: Humanoids and Quadrupeds},
+  booktitle = {Bioinspired Approaches for Human-Centric Technologies},
+  publisher = {Springer International Publishing},
+  year = {2014},
+  editor = {Cingolani, Roberto},
+  pages = {133-153},
+  doi = {10.1007/978-3-319-04924-3_5},
+  isbn = {978-3-319-04923-6},
+  language = {English},
+}
+
+@INPROCEEDINGS{liu15robio,
+  author={Liu, Xin and Semini, Claudio and Poulakakis, Ioannis}, 
+  booktitle={IEEE/RSJ International Conference on Robotics and Biomimetics (ROBIO)}, 
+  title={Active Compliance Hybrid Zero Dynamics Control of Bounding on HyQ}, 
+  year={2015}, 
+  month={December},
+  doi={10.1109/ROBIO.2015.7418910}
+}
+
+@INPROCEEDINGS{havoutis15clawar,
+  author={Havoutis, Ioannis and Caldwell, Darwin G. and Semini, Claudio}, 
+  booktitle={International Conference on Climbing and Walking Robots (CLAWAR)}, 
+  title={Lidar-based navigation-level path planning for field-capable legged robots}, 
+  year={2015}, 
+  month={December},
+  url={http://www.worldscientific.com/worldscibooks/10.1142/9820}
+}
+
+@ARTICLE{boaventura15tro,
+  author={Boaventura, T. and Buchli, J. and Semini, C. and Caldwell, D.G.}, 
+  journal={Robotics, IEEE Transactions on}, 
+  title={Model-Based Hydraulic Impedance Control for Dynamic Robots}, 
+  year={2015}, 
+  volume={31}, 
+  number={6}, 
+  pages={1324-1336}, 
+  keywords={Dynamics;Force control;Hydraulic actuators;Impedance;Legged locomotion;Force control;hydraulics;impedance control;legged robots}, 
+  doi={10.1109/TRO.2015.2482061}, 
+  ISSN={1552-3098}, 
+  month={Dec}
+}
+
+@ARTICLE{dallali15ctt,
+  year={2015},
+  issn={2095-6983},
+  journal={Control Theory and Technology},
+  volume={13},
+  number={3},
+  doi={10.1007/s11768-015-4146-y},
+  title={On the use of positive feedback for improved torque control},
+  url={http://dx.doi.org/10.1007/s11768-015-4146-y},
+  publisher={South China University of Technology and Academy of Mathematics and Systems Science, CAS},
+  keywords={Force-torque control; load motion compensation; decentralized control},
+  author={Dallali, Houman and Medrano-Cerda, Gustavo A. and Focchi, Michele and Boaventura, Thiago and Frigerio, Marco and Semini, Claudio and Buchli, Jonas and Caldwell, DarwinG.},
+  pages={266-285},
+  language={English}
+}
+
+@ARTICLE{ugurlu15ar,
+  year={2015},
+  issn={0929-5593},
+  journal={Autonomous Robots},
+  volume={38},
+  number={4},
+  doi={10.1007/s10514-015-9422-7},
+  title={Pattern generation and compliant feedback control for quadrupedal dynamic trot-walking locomotion: experiments on RoboCat-1 and HyQ},
+  publisher={Springer US},
+  keywords={Quadrupedal locomotion; Dynamic trot-walking; Active compliance; Pattern generation},
+  author={Ugurlu, Barkan and Havoutis, Ioannis and Semini, Claudio and Kayamori, Kana and Caldwell, DarwinG. and Narikiyo, Tatsuo},
+  pages={415-437},
+  language={English}
+}
+
+@INPROCEEDINGS{semini15icar, 
+  author={Semini, C. and Goldsmith, J. and Manfredi, D. and Calignano, F. and Ambrosio, E.P. and Pakkanen, J. and Caldwell, D.G.}, 
+  booktitle={International Conference on Advanced Robotics (ICAR)}, 
+  title={Additive manufacturing for agile legged robots with hydraulic actuation}, 
+  year={2015}, 
+  pages={123-129}, 
+  keywords={hydraulic systems;industrial robots;laser sintering;legged locomotion;rapid prototyping (industrial);DMLS;HyQ2Max;additive manufacturing;agile legged robots;direct metal laser sintering;hydraulic actuation;hydraulic quadruped robot;versatile legged robots;Electron tubes;Legged locomotion;Manifolds;Metals;Powders}, 
+  doi={10.1109/ICAR.2015.7251444}, 
+  month={July}
+}
+
+
+@ARTICLE{bazeille15robo,
+  author = {Bazeille,Stéphane and Ortiz,Jesus and Rovida,Francesco and Camurri,Marco and Meguenani,Anis and Caldwell,Darwin G. and Semini,Claudio},
+  title = {Active camera stabilization to enhance the vision of agile legged robots},
+  journal = {Robotica},
+  volume = {FirstView},
+  month = {11},
+  year = {2015},
+  issn = {1469-8668},
+  pages = {1--19},
+  numpages = {19},
+  doi = {10.1017/S0263574715000909},
+  URL = {http://journals.cambridge.org/article_S0263574715000909}
+}
+
+@INPROCEEDINGS{camurri15mfi, 
+  author={Camurri, M. and Bazeille, S. and Caldwell, D.G. and Semini, C.}, 
+  booktitle={IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI)}, 
+  title={Real-time depth and inertial fusion for local SLAM on dynamic legged robots}, 
+  year={2015}, 
+  pages={259-264}, 
+  doi={10.1109/MFI.2015.7295818}, 
+  month={Sept}
+}
+
+@INPROCEEDINGS{focchi15isrr,
+  booktitle = {International Symposium on Robotics Research (ISRR)},
+  author = {Focchi, Michele  and Barasuol, Victor and Frigerio, Marco and Caldwell, Darwin G. and Semini, Claudio},
+  title = {Slip Detection and Recovery for Quadruped Robots},
+  year = {2015},
+  url = {http://www.springer.com/it/book/9783319609157?wt_mc=Internal.Event.1.SEM.ChapterAuthorCongrat}
+}
+
+@ARTICLE{semini15ijrr,
+   author = {Semini, Claudio and Barasuol, Victor and Boaventura, Thiago and Frigerio, Marco and Focchi, Michele and Caldwell, Darwin G. and Buchli, Jonas},
+   title = {Towards versatile legged robots through active impedance control},
+   journal = {The International Journal of Robotics Research (IJRR)},
+   year = {2015},
+   volume = {34},
+   pages = {1003--1020},
+   number = {7},
+   owner = {csemini},
+   timestamp = {2015.05.23},
+   url = {http://ijr.sagepub.com/content/34/7/1003},
+   doi = {10.1177/0278364915578839}
+}
+
+@INPROCEEDINGS{rehman15clawar,
+  Author = {Rehman, Bilal U and Focchi, Michele and Frigerio, Marco and Goldsmith, Jake and Caldwell, Darwin G. and Semini, Claudio},
+  Title = {Design of a Hydraulically Actuated Arm for a Quadruped Robot},
+  Booktitle = {Proceedings of the International Conference on Climbing and Walking Robots (CLAWAR)},
+  year = {2015},
+  url={http://www.worldscientific.com/worldscibooks/10.1142/9820}
+}
+
+@INPROCEEDINGS{semini13isrr,
+   author = {Semini, Claudio and Barasuol, Victor and Frigerio, Marco and Boaventura, Thiago and Buchli, Jonas},
+   title = {Is Active Impedance the Key to a Breakthrough for Legged Robots?},
+   booktitle = {International Symposium on Robotics Research (ISRR)},
+   year = {2013},
+   owner = {csemini},
+   timestamp = {2014.04.24},
+   doi={10.1007/978-3-319-28872-7_1}
+}
+
+@INPROCEEDINGS{semini15sicfp,
+  author = {Semini, Claudio and Goldsmith, Jake and Rehman, Bilal U  and Frigerio,
+  Marco and Barasuol, Victor and Focchi, Michele and Caldwell, Darwin G.},
+  title = {Design overview of the hydraulic quadruped robots HyQ2Max  and HyQ2Centaur},
+  booktitle = {14th Scandinavian International Conference on Fluid Power (SICFP)},
+  year = {2015}
+}
+
+@INPROCEEDINGS{khan15tepra,
+	author = {Khan, Hamza and Kitano, Satoshi and Frigerio, Marco and Camurri, Marco and Barasuol, Victor and Featherstone, Roy, and Caldwell, Darwin G. and Semini, Claudio },
+	booktitle = {IEEE International Conference on Technologies for Practical Robot Applications (TEPRA)},
+	title = {Development of the Lightweight Hydraulic Quadruped Robot - MiniHyQ},
+	month = may,
+	year = {2015},
+  doi={10.1109/TePRA.2015.7219671}
+}
+
+@INPROCEEDINGS{mastalli15tepra,
+	author = {Mastalli, Carlos and Winkler, Alexander and Havoutis, Ioannis and Caldwell, Darwin G. and Semini, Claudio},
+	booktitle = {IEEE International Conference on Technologies for Practical Robot Applications (TEPRA)},
+	title = {On-line and On-board Planning and Perception for Quadrupedal Locomotion},
+	month = may,
+	doi = {10.1109/TePRA.2015.7219685},
+	year = {2015}
+}
+
+@INPROCEEDINGS{winkler15icra,
+	author = {Winkler, Alexander and Mastalli, Carlos and Havoutis, Ioannis and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
+	title = {Planning and Execution of Dynamic Whole-Body Locomotion for a Hydraulic Quadruped on Challenging Terrain},
+	booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+	month = may,
+	doi = {10.1109/ICRA.2015.7139916},
+	year = {2015}
+}
+
+@INPROCEEDINGS{khan15clawar,
+  author = {Khan, Hamza and Cannella, Ferdinando and Caldwell, Darwin and Semini, Claudio},
+  title = {An innovative torque sensor design for the lightest hydraulic quadruped robot},
+  booktitle = {International Conference on Climbing and Walking Robots (CLAWAR)},
+  year = {2015},
+  url = {http://www.worldscientific.com/worldscibooks/10.1142/9820}
+}
+
+@INPROCEEDINGS{khan15icara,
+  title                    = {Bio-inspired Knee Joint Mechanism for a Hydraulic Quadruped Robot},
+  author                   = {Khan, Hamza and Featherstone, Roy and Caldwell, Darwin G. and Semini, Claudio},
+  booktitle                = {International Conference on Automation, Robotics and Applications  (ICARA)},
+  year                     = {2015},
+  doi = {10.1109/ICARA.2015.7081168}
+
+}
+
+@INPROCEEDINGS{khan15sicfp,
+  title                    = {Development of a lightweight on-board hydraulic system for a quadruped robot},
+  author                   = {Khan, Hamza and Satoshi, Kitano and Caldwell, Darwin G. and Semini, Claudio },
+  booktitle                = {14th Scandinavian International Conference on Fluid Power (SICFP)},
+  year                     = {2015}
+}
+
+@INPROCEEDINGS{winkler14icra,
+	author = {Winkler, Alexander and Havoutis, Ioannis and Bazeille, Stephane and Ortiz, Jesus and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
+	title = {Path planning with force-based foothold adaptation and virtual model control for torque controlled quadruped robots},
+	booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+	year = {2014},
+  doi = {10.1109/ICRA.2014.6907815}
+}
+
+@ARTICLE{bazeille14isr,
+  author = {Bazeille, Stephane and Barasuol, Victor and Focchi, Michele and Havoutis,
+	Ioannis and Frigerio, Marco and Buchli, Jonas and Caldwell, Darwin
+	G. and Semini, Claudio},
+  title = {Quadruped robot trotting over irregular terrain assisted by stereo-vision},
+  journal = {Intelligent Service Robotics},
+  year = {2014},
+  volume = {vol. 7},
+  pages = {pp. 67-77},
+  owner = {mfocchi},
+  timestamp = {2014.11.24},
+  doi = {10.1007/s11370-014-0147-9}
+}
+
+@INPROCEEDINGS{bazeille14icraw,
+  author = {Bazeille, Stephane and Camurri, Marco and Ortiz, Jesus and Havoutis, Ioannis and Caldwell, Darwin G. and Semini, Claudio},
+  title = {Terrain mapping with a pan and tilt stereo camera for locomotion on a quadruped robot},
+  booktitle = {ICRA14 Workshop on Modelling, Estimation, Perception and Control of All Terrain Mobile Robots (WMEPC14)},
+  year = {2014},
+  doi = {10.1007/s11370-014-0147-9}
+}
+
+@CONFERENCE{barasuol14dw,
+  author = {Barasuol, Victor and Buchli, Jonas and De Negri, Juliano Victor and De Pieri, Edson Roberto and Caldwell, Darwin G. and Semini, Claudio},
+  title = {On Trajectory Generation and Active Impedance for Running Trotting},
+  journal = {Dynamic Walking},
+  year = {2014},
+  owner = {vbarasuol},
+  timestamp = {2014.11.24}
+}
+
+@ARTICLE{kostamo14,
+  author = {Kostamo, Esa and Focchi, Michele and Guglielmino, Emanuele and Kostamo,
+	Jari and Buchli, Jonas and Pietola, Matti and Caldwell, Darwin G.},
+  title = {Magnetorheologically Damped Compliant Foot for Legged Robotic Application},
+  journal = {Journal of Mechanical Design},
+  year = {2014},
+  volume = {vol. 136},
+  pages = {pp. 021003-1/8},
+  __markedentry = {[mfocchi:6]},
+  owner = {mfocchi},
+  timestamp = {2014.11.24},
+  doi={10.1115/1.4025966}
+}
+
+@INPROCEEDINGS{hutter13agility,
+  title={AGILITY-Dynamic full body locomotion and manipulation with autonomous legged robots},
+  author={Hutter, Marco and Bloesch, Michael and Buchli, Jonas and Semini, Claudio and Bazeille, Stephane and Righetti, Ludovic and Bohg, Jeannette},
+  booktitle={IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)},
+  pages={1--4},
+  year={2013},
+  organization={IEEE},
+  doi = {10.1109/SSRR.2013.6719336}
+}
+
+@INPROCEEDINGS{boaventura13iros, 
+  author={Boaventura, T. and Medrano-Cerda, G.A. and Semini, C. and Buchli, J. and Caldwell, Darwin G.}, 
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={{Stability and performance of the compliance controller of the quadruped robot HyQ}}, 
+  year={2013}, 
+  month={Nov}, 
+  pages={1458-1464}, 
+  keywords={compliance control;legged locomotion;stability;actuator bandwidth;cascade compliance controller;compliant behavior;compliant legged robot;contact point;environmental contacts;foot compliance;nested torque loop performance;passivity;quadruped robot HyQ;robot leg;stability analysis;virtual impedances;Actuators;Bandwidth;Damping;Legged locomotion;Springs;Torque}, 
+  doi={10.1109/IROS.2013.6696541}, 
+  ISSN={2153-0858},
+}
+
+@CONFERENCE{frigerio13sdirviii,
+  author = {Frigerio, Marco and Semini, Claudio and Buchli, Jonas and Caldwell, Darwin G.},
+  title = {Challenges in the software architecture design for autonomous legged robots},
+  booktitle = {Eighth workshop on Software Development and Integration in Robotics
+	(ICRA SDIR VIII)},
+  year = {2013},
+  month = {May},
+  owner = {phd},
+  timestamp = {2013.04.22},
+  url = {http://robotics.unibg.it/tcsoft/sdir2013/slides/frigerio.pdf}
+}
+
+@INPROCEEDINGS{zapoilsky2013clawar,
+  author = {Zapoilsky, Samuel and Drumwright, Evan and Havoutis, Ioannis and Buchli, Jonas and Semini, Claudio},
+  title = {Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces},
+  booktitle = {16th International Conference on Climbing and Walking Robots (CLAWAR)},
+  year = {2013},
+  address = {Sydney, Australia},
+  month = {July},
+  publisher = {World Scientific Publishing Company},
+  __markedentry = {[mfocchi:6]},
+  owner = {mfocchi},
+  timestamp = {2014.11.24},
+  url = {http://www.worldscientific.com/worldscibooks/10.1142/8913}
+}
+
+@INPROCEEDINGS{khan13clawar,
+  title                    = {Actuator sizing for highly-dynamic quadruped robots based on squat jumps and running trots},
+  author                   = {Khan, Hamza and Semini, Claudio and  Barasuol, Victor and Caldwell, Darwin G.},
+  booktitle                = { Int. Conf. on Climbing and Walking Robots (CLAWAR)},
+  year                     = {2013},
+ 
+}
+
+@CONFERENCE{khan13amam,
+  title                    = {Scaling of versatile quadruped robots for running trot},
+  author                   = {Khan, Hamza and Semini, Claudio and Caldwell, Darwin G.},
+  booktitle                = {Int. Symp. Adaptive Motion of Animals and Machines (AMAM)},
+  year                     = {2013},
+  url                      = {http://www.worldscientific.com/worldscibooks/10.1142/8913}
+
+}
+
+@INPROCEEDINGS{ugurlu13iros,
+  author	= {Ugurlu, Barkan and Havoutis, Ioannis and Semini, Claudio and Caldwell, Darwin G.},
+  booktitle	= {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title		= {Dynamic Trot-Walking with the Hydraulic Quadruped Robot - HyQ: Analytical Trajectory Generation and Active Compliance Control},
+  year		= {2013},
+  doi = {10.1109/IROS.2013.6697234}
+}
+
+@INPROCEEDINGS{havoutis13iros,
+  author	= {Havoutis, Ioannis and Ortiz, Jesus and Bazeille, Stephane. and Barasuol, Victor and Semini, Claudio and Caldwell, Darwin G.},
+  booktitle	= {IEEE/RSJ International Conference on Intelligent Robotsand Systems (IROS)},
+  title		= {Onboard Perception-Based Trotting and Crawling with the Hydraulic Quadruped Robot (HyQ)},
+  year		= {2013},
+  doi = {10.1109/IROS.2013.6697235}
+}
+
+@INPROCEEDINGS{havoutis13icm,
+  author	= {Havoutis, Ioannis and Semini, Claudio and Buchli, Jonas and Caldwell, Darwin G.},
+  title		= {Quadrupedal trotting with active compliance},
+  journal	= {IEEE International Conference on Mechatronics (ICM)},
+  year	= {2013},
+  doi = {10.1109/ICMECH.2013.6519112}
+}
+
+@INPROCEEDINGS{barasuol13icra,
+  author = {Barasuol, Victor and Buchli, Jonas and Semini, Claudio and Frigerio, Marco and De Pieri, Edson Roberto and Caldwell, Darwin G.},
+  title = {A Reactive Controller Framework for Quadrupedal Locomotion on Challenging Terrain},
+  journal = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year = {2013},
+  pages = {2554-2561},
+  month = {5},
+  doi = {10.1109/ICRA.2013.6630926},
+  owner = {vbarasuol},
+  timestamp = {2014.11.24}
+}
+
+@INPROCEEDINGS{barasuol15iros,
+  title = {Reactive Trotting with Foot Placement Corrections through Visual Pattern Classification},
+  author = {Barasuol, Victor and Camurri, Marco and Bazeille, Stephane  and Caldwell, Darwin and Semini, Claudio},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  month = {10},
+  year ={2015},
+  doi = {10.1109/IROS.2015.7354191}
+}
+
+@ARTICLE{camurri14,
+  year={2014},
+  issn={0932-8092},
+  journal={Machine Vision and Applications},
+  volume={25},
+  number={7},
+  doi={10.1007/s00138-014-0640-3},
+  title={3D Hough transform for sphere recognition on point clouds},
+  url={http://dx.doi.org/10.1007/s00138-014-0640-3},
+  publisher={Springer Berlin Heidelberg},
+  keywords={3D Hough transform; Sphere detection; Randomized HT; Probabilistic HT},
+  author={Camurri, Marco and Vezzani, Roberto and Cucchiara, Rita},
+  pages={1877-1891},
+  language={English}
+}
+
+@INPROCEEDINGS{focchi2013a,
+  author = {Focchi, Michele and Barasuol, Victor and Havoutis, Ioannis and Buchli,
+	Jonas and Semini, Claudio and Caldwell, Darwin G.},
+  title = {Local Reflex Generation for Obstacle Negotiation in Quadrupedal Locomotion},
+  booktitle = {Int. Conf. on Climbing and Walking Robots (CLAWAR)},
+  year = {2013},
+  __markedentry = {[mfocchi:6]},
+  owner = {mfocchi},
+  timestamp = {2013.08.09},
+  url = {http://www.worldscientific.com/worldscibooks/10.1142/8913}
+}
+
+@PHDTHESIS{frigerio13phd,
+  author = {Frigerio, Marco},
+  title = {Model--Based Code Generation for the Kinematics and the Dynamics of Articulated Robots},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2013},
+  owner = {phd},
+  timestamp = {2013.09.29}
+}
+
+@PHDTHESIS{phd16brehman,
+  author = {Rehman, Bilal U},
+  title = {Design and Control of a Compact Hydraulic Manipulator for Quadruped Robots},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2016}
+}
+
+
+
+@INPROCEEDINGS{bazeille13tepra,
+author={Bazeille, S. and Barasuol, V. and Focchi, M. and Havoutis, I. and Frigerio, M. and Buchli, J. and Semini, C. and Caldwell, Darwin G.},
+booktitle={IEEE International Conference on Technologies for Practical Robot Applications (TePRA)},
+title={Vision enhanced reactive locomotion control for trotting on rough terrain},
+year={2013},
+month={April},
+pages={1-6},
+doi={10.1109/TePRA.2013.6556366},
+ISSN={2325-0526},
+}
+
+@INPROCEEDINGS{boaventura12iros,
+  author = {Boaventura, Thiago and Focchi, Michele and Frigerio, Marco and Buchli,
+	Jonas and Semini, Claudio and Medrano-Cerda, Gustavo A. and Caldwell,
+	Darwin G.},
+  title = {On the role of load motion compensation in high-performance force control},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year = {2012},
+  owner = {tboaventura},
+  timestamp = {2012.07.12},
+  doi = {10.1109/IROS.2012.6385953}
+}
+
+@INPROCEEDINGS{boaventura12icra,
+  author = {Boaventura, Thiago and Semini, Claudio and Buchli, Jonas and Frigerio,
+	Marco and Focchi, Michele and Caldwell, Darwin G.},
+  title = {Dynamic Torque Control of a Hydraulic Quadruped Robot},
+  booktitle = {IEEE International Conference in Robotics and Automation},
+  year = {2012},
+  pages = {1889-1894},
+  owner = {csemini},
+  timestamp = {2011.09.16},
+  doi = {10.1109/ICRA.2012.6224628}
+}
+
+@INPROCEEDINGS{frigerio12iros,
+  author = {Frigerio, Marco and Buchli, Jonas and Caldwell, Darwin G.},
+  title = {Code Generation of Algebraic Quantities for Robot Controllers},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems
+	(IROS)},
+  year = {2012},
+  options = {maxnames=7},
+  owner = {phd},
+  timestamp = {2014.01.09},
+  doi = {10.1109/IROS.2012.6385694}
+}
+
+@PATENT{focchi2012,
+  nationality = {ARIPO, Eruasian, European},
+  number = {WO 2012/004738 Al},
+  year = {2012},
+  yearfiled = {2013},
+  author = {Focchi, Michele and Guglielmino, Emanuele and Pane, Gianluca and
+	Cordasco, Stefano and Tacchino, Carlo and Caldwell, Darwin G},
+  title = {Device for generating electric power from a source of air or other
+	gas or fluid under pressure},
+  __markedentry = {[mfocchi:6]},
+  owner = {mfocchi},
+  timestamp = {2013.03.13}
+}
+
+@CONFERENCE{frigerio12sdirVII,
+  author = {Frigerio, Marco and Buchli, Jonas and Caldwell, Darwin G.},
+  title = {Model based code generation for kinematics and dynamics computations
+	in robot controllers},
+  booktitle = {Seventh workshop on Software Development and Integration in Robotics
+	(ICRA SDIR VII)},
+  year = {2012},
+  month = {May},
+  options = {maxnames=7},
+  owner = {phd},
+  timestamp = {2014.01.09}
+}
+
+@INPROCEEDINGS{focchi12acm,
+  author = {Focchi, Michele and Boaventura, Thiago and Semini, Claudio and Frigerio,
+	Marco and Buchli, Jonas and Caldwell, Darwin G.},
+  title = {Torque-control Based Compliant Actuation of a Quadruped Robot},
+  booktitle = {Proc. of the 12th IEEE Int. Workshop on Advanced Motion Control (AMC)},
+  year = {2012},
+  owner = {mfocchi},
+  timestamp = {2012.02.24},
+  doi = {10.1109/AMC.2012.6197133}
+}
+
+@INPROCEEDINGS{semini12clawar,
+  author = {Semini, Claudio and Khan, Hamza and Frigerio, Marco and Boaventura,
+	Thiago and Focchi, Michele and Buchli, Jonas and Caldwell, Darwin
+	G.},
+  title = {Design and Scaling of Versatile Quadruped Robots},
+  journal = {Fifteenth International Conference on Climbing and Walking Robots
+	and the Support Technologies for Mobile Machines, Baltimore, USA},
+  year = {2012},
+  pages = {pp. 273-280},
+  __markedentry = {[mfocchi:6]},
+  owner = {mfocchi},
+  timestamp = {2014.11.24},
+  url = {http://www.worldscientific.com/worldscibooks/10.1142/8546}
+}
+
+@INPROCEEDINGS{peng12,
+  author = {Peng, Shuang and Branson, David T. and Guglielmino, Emanuele and
+	Boaventura, Thiago and Caldwell, Darwin G.},
+  title = {Performance Assessment of Digital Hydraulics in a Quadruped Robot
+	Leg},
+  booktitle = {Proceedings of the 11th Biennial Conference on Engineering Systems
+	design and Analysis ESDA11},
+  year = {2012},
+  owner = {tboaventura},
+  timestamp = {2012.03.11},
+  doi = {10.1115/ESDA2012-82262}
+}
+
+@CONFERENCE{semini11bioinspnantes,
+  author = {Semini, Claudio and Buchli, Jonas and Frigerio, Marco and Boaventura,
+	Thiago and Focchi, Michele and Guglielmino, Emanuele and Cannella,
+	Ferdinando and Tsagarakis, Nikos G. and Caldwell, Darwin G.},
+  title = {HyQ -- A Dynamic Locomotion Research Platform},
+  booktitle = {Int.l Workshop on Bio-Inspired Robots, Nantes (France)},
+  year = {2011},
+  owner = {csemini},
+  timestamp = {2011.09.16}
+}
+
+@CONFERENCE{boaventura11amam,
+  author = {Boaventura, Thiago and Semini, Claudio and Buchli, Jonas and Caldwell,
+	Darwin G.},
+  title = {Actively-compliant Leg for Dynamic Locomotion},
+  booktitle = {Int. Symp. Adaptive Motion of Animals and Machines (AMAM)},
+  year = {2011},
+  owner = {csemini},
+  timestamp = {2011.09.15}
+}
+
+@ARTICLE{semini11hyqdesignjsce,
+  author = {Semini, Claudio and Tsagarakis, Nikos G. and Guglielmino, Emanuele
+	and Focchi, Michele and Cannella, Ferdinando and Caldwell, Darwin
+	G.},
+  title = {Design of HyQ - a Hydraulically and Electrically Actuated Quadruped
+	Robot},
+  journal = {IMechE Part I: Journal of Systems and Control Engineering},
+  year = {2011},
+  volume = {225},
+  pages = {831-849},
+  number = {6},
+  owner = {CSemini},
+  timestamp = {2011.02.20},
+  doi={10.1177/0959651811402275}
+}
+
+@CONFERENCE{frigerio11kindsl,
+  author = {Frigerio, Marco and Buchli, Jonas and Caldwell, Darwin G. },
+  title = {A Domain Specific Language for kinematic models and fast implementations
+	of robot dynamics algorithms},
+  booktitle = {2nd International Workshop on Domain-Specific Languages and models
+	for ROBotic systems (DSLRob)},
+  year = {2011},
+  month = {September},
+  keywords = {DSL, software, kinematics, dynamics, code generation, real time},
+  options = {maxnames=7},
+  owner = {phd},
+  timestamp = {2014.01.09}
+}
+
+@PHDTHESIS{semini10PhDthesis,
+  author = {Semini, Claudio},
+  title = {HyQ -- Design and Development of a Hydraulically Actuated Quadruped
+	Robot},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2010},
+  owner = {CSemini},
+  timestamp = {2010.09.12}
+}
+
+@PHDTHESIS{cunha13PhDthesis,
+  author = {Boaventura, Thiago},
+  title = {Hydraulic Compliance Control of the Quadruped Robot HyQ},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2013},
+  owner = {CSemini}
+}
+
+@PHDTHESIS{focchi13PhDthesis,
+  author = {Focchi, Michele},
+  title = {Strategies To Improve the Impedance Control Performance of a Quadruped Robot},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2013},
+  owner = {CSemini}
+}
+
+@PHDTHESIS{khan15phd,
+  author = {Khan, Hamza},
+  title = {MiniHyQ - Development of a Lighweight Highly-Dynamic Hydraulic Quadruped Robot},
+  school = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+  year = {2015},
+  owner = {phd},
+  timestamp = {2013.09.29}
+}
+
+@INPROCEEDINGS{focchi10icra,
+  author = {Focchi, Michele and Guglielmino, Emanuele and Semini, Claudio and
+	Boaventura, Thiago  and Yang, Yousheng and Caldwell, Darwin
+	G.},
+  title = {Control of a Hydraulically-Actuated Quadruped Robot Leg},
+  booktitle = {Proceedings of the IEEE International Conference on Robotics and
+	Automation (ICRA)},
+  year = {2010},
+  owner = {CSemini},
+  timestamp = {2010.02.18},
+  doi = {10.1109/ROBOT.2010.5509697}
+}
+
+@INPROCEEDINGS{semini10iros,
+  author = {Semini, Claudio and Tsagarakis, Nikos G. and Guglielmino, Emanuele
+	and Caldwell, Darwin G.},
+  title = {Design and Experimental Evaluation of a Hydraulically Actuated Robot
+	Leg},
+  booktitle = {Proceedings of the IEEE/RSJ International Conference on Intelligent
+	Robots and Systems (IROS)},
+  year = {2010},
+  owner = {CSemini},
+  timestamp = {2010.08.13},
+  doi = {10.1109/IROS.2010.5651548}
+}
+
+@INPROCEEDINGS{cunha10,
+  author = {Boaventura, T. and Semini, C. and Guglielmino, E. and De Negri, V.
+	J. and Yang, Y. and Caldwell, D.},
+  title = {Gain Scheduling Control for the Hydraulic Actuation of the HyQ Robot
+	Leg},
+  booktitle = {ABCM Symposium Series in Mechatronics},
+  publisher = {ABCM - Brazilian Society of Mechanical Sciences and Engineering},
+  year = {2010},
+  editor = {De Negri, Victor Juliano and Perondi, Eduardo Adnr\E9 and Cunha,
+	Mauro Andr\E9 Barbosa and Horikawa, Oswaldo},
+  volume = {4},
+  pages = {673 -- 682},
+  address = {Rio de Janeiro, RJ, Brazil},
+  note = {ISBN 978-85-85769-47-5},
+  jornal = {ABCM Symposium Series in Mechatronics},
+  owner = {tboaventura},
+  timestamp = {2012.03.11},
+  url = {http://www.abcm.org.br/pages/abcm_symposium_series_in_mechatronics_vol_4}
+}
+
+@INPROCEEDINGS{yang10,
+  author = {Yang, Yousheng and Guglielmino, E. and Dai, J. S. and Boaventura,
+	Thiago and Caldwell, Darwin G.},
+  title = {Modeling of a novel 3-way rotary type electro-hydraulic valve},
+  booktitle = {Proc. IEEE Int Information and Automation (ICIA) Conf},
+  year = {2010},
+  pages = {1463--1468},
+  doi = {10.1109/ICINFA.2010.5512286},
+  owner = {tboaventura},
+  timestamp = {2012.03.11},
+}
+
+@INPROCEEDINGS{semini08HyQBioRob,
+  author = {Semini, Claudio and Tsagarakis, Nikos G. and Vanderborght, Bram and
+	Yang, Yousheng and Caldwell, Darwin G.},
+  title = {HyQ -- Hydraulically Actuated Quadruped Robot: Hopping Leg Prototype},
+  booktitle = {Proceedings of the IEEE International Conference on Biomedical Robotics
+	and Biomechatronics (BioRob)},
+  year = {2008},
+  pages = {593-599},
+  owner = {CSemini},
+  timestamp = {2010.01.25},
+  doi = {10.1109/BIOROB.2008.4762913}
+}
+
+@INPROCEEDINGS{Semini2019,
+Author = {Claudio Semini and Victor Barasuol and Michele Focchi and Chundri Boelens and Mohamed Emara and Salvatore Casella and Octavio Villarreal and Romeo Orsolino and Geoff Fink and Shamel Fahmi and Gustavo Medrano-Cerda and Dhinesh Sangiah and Jack Lesniewski and Kyle Fulton and Michel Donadon and Mike Baker and Darwin G. Caldwell},
+Title = {Brief introduction to the quadruped robot {HyQReal}},
+BOOKTITLE = {Italian Conference on Robotics and Intelligent Machines {(I-RIM)}},
+Year = {2019},
+MONTH = {Oct.},
+PAGES = {1--2},
+ADDRESS = {Rome},
+} 
+
+
+
+
+
+
