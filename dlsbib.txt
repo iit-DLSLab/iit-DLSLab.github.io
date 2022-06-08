@@ -1,3 +1,20 @@
+@Article{nistico22sensors,
+AUTHOR = {Nisticò, Ylenia and Fahmi, Shamel and Pallottino, Lucia and Semini, Claudio and Fink, Geoff},
+TITLE = {On Slip Detection for Quadruped Robots},
+JOURNAL = {Sensors},
+VOLUME = {22},
+YEAR = {2022},
+NUMBER = {8},
+ARTICLE-NUMBER = {2967},
+URL = {https://www.mdpi.com/1424-8220/22/8/2967},
+PubMedID = {35458952},
+ISSN = {1424-8220},
+ABSTRACT = {Legged robots are meant to autonomously navigate unstructured environments for applications like search and rescue, inspection, or maintenance. In autonomous navigation, a close relationship between locomotion and perception is crucial; the robot has to perceive the environment and detect any change in order to autonomously make decisions based on what it perceived. One main challenge in autonomous navigation for legged robots is locomotion over unstructured terrains. In particular, when the ground is slippery, common control techniques and state estimation algorithms may not be effective, because the ground is commonly assumed to be non-slippery. This paper addresses the problem of slip detection, a first fundamental step to implement appropriate control strategies and perform dynamic whole-body locomotion. We propose a slip detection approach, which is independent of the gait type and the estimation of the position and velocity of the robot in an inertial frame, that is usually prone to drift problems. To the best of our knowledge, this is the first approach of a quadruped robot slip detector that can detect more than one foot slippage at the same time, relying on the estimation of measurements expressed in a non-inertial frame. We validate the approach on the 90 kg Hydraulically actuated Quadruped robot (HyQ) from the Istituto Italiano di Tecnologia (IIT), and we compare it against a state-of-the-art slip detection algorithm.},
+DOI = {10.3390/s22082967}
+}
+
+
+
 @MISC{clemente22icra,
 AUTHOR = {Clemente, Luca and Villarreal, Octavio and Bratta, Angelo and Focchi, Michele and Barasuol, Victor and Muscolo, Giovanni Gerardo and Semini, Claudio},
 TITLE = {Foothold Evaluation Criterion for Dynamic Transition Feasibility for
