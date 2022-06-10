@@ -1,3 +1,9 @@
+@INPROCEEDINGS{amatucci2022icra,
+  author={Amatucci, Lorenzo and Kim, Joon-Ha and Hwangbo, Jemin and Park, Hae-Won },
+  booktitle={IEEE International Conference on Robotics and Automation}, 
+  title={Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control}, 
+  year={2022}}
+
 @Article{nistico22sensors,
 AUTHOR = {Nisticò, Ylenia and Fahmi, Shamel and Pallottino, Lucia and Semini, Claudio and Fink, Geoff},
 TITLE = {On Slip Detection for Quadruped Robots},
