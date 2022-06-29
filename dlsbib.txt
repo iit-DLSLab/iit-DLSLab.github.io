@@ -1,3 +1,10 @@
+@INPROCEEDINGS{dettmann22astra,
+  author={Dettmann, Alexander and Planthaber, Steffen and Bargsten, Vinzenz and Dominguez, Raul and Cerilli, Gianluca and Marchitto, Marco and Fink, Geoff
+  and Focchi, Michel and Barasuol, Victor and Semini, Claudio and Marc, Robert},
+  title={Towards a Generic Navigation and Locomotion Control System for Legged Space Exploration},
+  booktitle={ASTRA},
+  year={2022}}
+
 @INPROCEEDINGS{amatucci2022icra,
   author={Amatucci, Lorenzo and Kim, Joon-Ha and Hwangbo, Jemin and Park, Hae-Won },
   booktitle={IEEE International Conference on Robotics and Automation}, 
