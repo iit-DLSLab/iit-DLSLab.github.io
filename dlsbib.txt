@@ -26,16 +26,28 @@ ABSTRACT = {Legged robots are meant to autonomously navigate unstructured enviro
 DOI = {10.3390/s22082967}
 }
 
-
-
-@MISC{clemente22icra,
+@INPROCEEDINGS{clemente22icra,
 AUTHOR = {Clemente, Luca and Villarreal, Octavio and Bratta, Angelo and Focchi, Michele and Barasuol, Victor and Muscolo, Giovanni Gerardo and Semini, Claudio},
 TITLE = {Foothold Evaluation Criterion for Dynamic Transition Feasibility for
 Quadruped Robots},
 YEAR = {2022},
-ARCHIVE PREFIX = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)} 
+BOOKTITLE = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)} 
 PRIMARY CLASS = {cs.RO},
 NOTE = {accepted},
+}
+
+@INPROCEEDINGS{semini21irim,
+AUTHOR = {Semini, Claudio and Bratta, Angelo and Focchi, Michele and Gatti, Matteo and Poni, Stefano and Barasuol, Victor},
+TITLE = {First Field Tests of a Legged Robot in a Vineyard},
+YEAR = {2021},
+BOOKTITLE = {I-RIM Conference}
+}
+
+@INPROCEEDINGS{bratta21irim,
+AUTHOR = {Bratta, Angelo and Rathod, Niraj and Zanon, Mario  and Villarreal, Octavio and Bemporad, Alberto and Semini, Claudio and Focchi, Michele},
+TITLE = {Towards a Nonlinear Model Predictive Control for Quadrupedal Locomotion on Rough Terrain},
+YEAR = {2021},
+BOOKTITLE = {I-RIM Conference}
 }
 
 @MISC{abdalla20efficient,
