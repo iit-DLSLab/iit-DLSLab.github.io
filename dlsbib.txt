@@ -1,3 +1,10 @@
+@INPROCEEDINGS{risiglione22iros,
+  author = {Risiglione, Mattia and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
+  title = {A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators},
+  publisher = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
 @INPROCEEDINGS{dettmann22astra,
   author={Dettmann, Alexander and Planthaber, Steffen and Bargsten, Vinzenz and Dominguez, Raul and Cerilli, Gianluca and Marchitto, Marco and Fink, Geoff
   and Focchi, Michel and Barasuol, Victor and Semini, Claudio and Marc, Robert},
