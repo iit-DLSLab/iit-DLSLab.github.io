@@ -1,3 +1,13 @@
+@article{bratta23mdpi,
+	author= {Bratta, Angelo and Focchi, Michele and Rathod, Niraj and Semini, Claudio},
+	title = {Optimization-Based Reference Generator for Nonlinear Model Predictive Control of Legged Robots},
+	journal = {Robotics},
+	volume = {12},
+	number = {6},
+	year = {2023},
+	doi = {10.3390/robotics12010006}
+} 
+	
 @INPROCEEDINGS{risiglione22iros,
   author = {Risiglione, Mattia and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
   title = {A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators},
@@ -14,9 +24,12 @@
 
 @INPROCEEDINGS{amatucci2022icra,
   author={Amatucci, Lorenzo and Kim, Joon-Ha and Hwangbo, Jemin and Park, Hae-Won },
-  booktitle={IEEE International Conference on Robotics and Automation}, 
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control}, 
-  year={2022}}
+  year={2022},
+  pages = {4701-4707}, 
+  doi= {10.1109/ICRA46639.2022.9812421}
+  }
 
 @Article{nistico22sensors,
 AUTHOR = {Nisticò, Ylenia and Fahmi, Shamel and Pallottino, Lucia and Semini, Claudio and Fink, Geoff},
@@ -38,9 +51,9 @@ AUTHOR = {Clemente, Luca and Villarreal, Octavio and Bratta, Angelo and Focchi, 
 TITLE = {Foothold Evaluation Criterion for Dynamic Transition Feasibility for
 Quadruped Robots},
 YEAR = {2022},
-BOOKTITLE = {Proc. {IEEE} Int. Conf. Robot. Automat. (ICRA)} 
-PRIMARY CLASS = {cs.RO},
-NOTE = {accepted},
+BOOKTITLE = {IEEE International Conference on Robotics and Automation (ICRA)},
+PAGES = {4679-4685}, 
+DOI = {10.1109/ICRA46639.2022.9812434}
 }
 
 @INPROCEEDINGS{semini21irim,
