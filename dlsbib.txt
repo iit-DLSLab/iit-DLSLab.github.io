@@ -1,3 +1,16 @@
+@article{roscia23sensors,
+	AUTHOR = {Roscia, Francesco and Cumerlotti, Andrea and Del Prete, Andrea and Semini, Claudio and Focchi, Michele},
+	TITLE = {Orientation Control System: Enhancing Aerial Maneuvers for Quadruped Robots},
+	JOURNAL = {Sensors},
+	VOLUME = {23},
+	YEAR = {2023},
+	NUMBER = {3},
+	ARTICLE-NUMBER = {1234},
+	URL = {https://www.mdpi.com/1424-8220/23/3/1234},
+	ISSN = {1424-8220},
+	DOI = {10.3390/s23031234}
+}
+
 @article{bratta23mdpi,
 	author= {Bratta, Angelo and Focchi, Michele and Rathod, Niraj and Semini, Claudio},
 	title = {Optimization-Based Reference Generator for Nonlinear Model Predictive Control of Legged Robots},
