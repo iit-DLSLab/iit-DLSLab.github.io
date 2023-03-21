@@ -1,3 +1,11 @@
+@PHDTHESIS{bratta23phd,
+AUTHOR = {Bratta, Angelo},
+TITLE = {Online Optimization-based Gait Adaptation of Quadruped Robot Locomotion},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2023},
+OWNER = {phd}
+}
+
 @article{roscia23sensors,
 	AUTHOR = {Roscia, Francesco and Cumerlotti, Andrea and Del Prete, Andrea and Semini, Claudio and Focchi, Michele},
 	TITLE = {Orientation Control System: Enhancing Aerial Maneuvers for Quadruped Robots},
