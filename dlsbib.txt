@@ -1,3 +1,15 @@
+@Article{fahmi23tro,
+AUTHOR = {Fahmi, Shamel and Barasuol, Victor and Esteban, Domingo and Villarreal, Octavio and Semini, Claudio},
+TITLE = {ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots},
+JOURNAL = {IEEE Transactions Robotics},
+VOLUME = {39},
+YEAR = {2023},
+NUMBER = {2},
+PAGES={885-904},
+DOI = {10.1109/TRO.2022.3222958},
+URL = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9966331}
+}
+
 @PHDTHESIS{bratta23phd,
 AUTHOR = {Bratta, Angelo},
 TITLE = {Online Optimization-based Gait Adaptation of Quadruped Robot Locomotion},
