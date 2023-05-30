@@ -1,13 +1,20 @@
 @Article{fahmi23tro,
 AUTHOR = {Fahmi, Shamel and Barasuol, Victor and Esteban, Domingo and Villarreal, Octavio and Semini, Claudio},
 TITLE = {ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots},
-JOURNAL = {IEEE Transactions Robotics},
+JOURNAL = {IEEE Transactions on Robotics},
 VOLUME = {39},
 YEAR = {2023},
 NUMBER = {2},
 PAGES={885-904},
 DOI = {10.1109/TRO.2022.3222958},
 URL = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9966331}
+}
+
+@article{abdalla23tro,
+author = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio},
+title = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
+year = {2023},
+journal = {IEEE Transactions on Robotics}
 }
 
 @PHDTHESIS{bratta23phd,
@@ -103,13 +110,11 @@ YEAR = {2021},
 BOOKTITLE = {I-RIM Conference}
 }
 
-@MISC{abdalla20efficient,
-AUTHOR = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio},
-TITLE = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
-YEAR = {2020},
-EPRINT = {2011.07967},
-ARCHIVE PREFIX = {arXiv} 
-PRIMARY CLASS = {cs.RO},
+@article{abdalla23tro,
+author = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio},
+title = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
+year = {2023},
+journal = {IEEE Transactions on Robotics}
 }
 
 @misc{rathod21access,
