@@ -1,3 +1,11 @@
+@article{ordonez23rss,
+author = {Ordonez-Apraez, Daniel and Martin, Mario and Agudo, Antonio and Moreno-Noguer, Francesc},
+title = {On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis},
+year = {2023},
+publisher = {Robotics: Science and Systems Conference (RSS)}
+}
+
+
 @Article{fahmi23tro,
 AUTHOR = {Fahmi, Shamel and Barasuol, Victor and Esteban, Domingo and Villarreal, Octavio and Semini, Claudio},
 TITLE = {ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots},
