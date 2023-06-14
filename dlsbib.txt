@@ -1,3 +1,10 @@
+@Article{gamba23ral,
+Title = {A Springy Leg and a Double Backflip},
+Author = {Gamba, Juan D. and Featherstone, Roy},
+Journal = {IEEE Robotics and Automation Letters (RA-L)},
+Year = {2023}
+}
+
 @article{ordonez23rss,
 author = {Ordonez-Apraez, Daniel and Martin, Mario and Agudo, Antonio and Moreno-Noguer, Francesc},
 title = {On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis},
