@@ -13,11 +13,13 @@ YEAR = {2023},
 }
 
 @INPROCEEDINGS{milburn23icarsc,
-  author={Milburn, Lee and Gamba, Juan and Fernandes, Miguel and Semini, Claudio},
-  booktitle={IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)}, 
-  title={Computer-Vision Based Real Time Waypoint Generation for Autonomous Vineyard Navigation with Quadruped Robots}, 
-  year={2023}
-  }
+author={Milburn, Lee and Gamba, Juan and Fernandes, Miguel and Semini, Claudio},
+booktitle={IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)},
+title={Computer-Vision Based Real Time Waypoint Generation for Autonomous Vineyard Navigation with Quadruped Robots},
+year={2023},
+pages={239-244},
+doi={10.1109/ICARSC58346.2023.10129563}
+}
 
 @Article{gamba23ral,
 Title = {A Springy Leg and a Double Backflip},
@@ -31,6 +33,7 @@ author = {Ordonez-Apraez, Daniel and Martin, Mario and Agudo, Antonio and Moreno
 title = {On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis},
 year = {2023},
 publisher = {Robotics: Science and Systems Conference (RSS)}
+}
 
 @Article{fahmi23tro,
 AUTHOR = {Fahmi, Shamel and Barasuol, Victor and Esteban, Domingo and Villarreal, Octavio and Semini, Claudio},
