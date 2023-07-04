@@ -1,11 +1,23 @@
+@INPROCEEDINGS{focchi23clawar,
+AUTHOR = {Focchi, Michele and Roscia, Francesco and Semini, Claudio},
+BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
+TITLE = {Locosim: an Open-Source Cross-PlatformRobotics Framework},
+YEAR = {2023},
+}
+
+@INPROCEEDINGS{barasuol23clawar,
+AUTHOR = {Barasuol, Victor and Emre, Sinan and Semini, Claudio},
+BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
+TITLE = {Stair-Climbing Charts: on the optimal body height for quadruped robots to walk on stairs},
+YEAR = {2023},
+}
+
 @INPROCEEDINGS{milburn23icarsc,
   author={Milburn, Lee and Gamba, Juan and Fernandes, Miguel and Semini, Claudio},
   booktitle={IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)}, 
   title={Computer-Vision Based Real Time Waypoint Generation for Autonomous Vineyard Navigation with Quadruped Robots}, 
   year={2023}
   }
-
-
 
 @Article{gamba23ral,
 Title = {A Springy Leg and a Double Backflip},
@@ -19,8 +31,6 @@ author = {Ordonez-Apraez, Daniel and Martin, Mario and Agudo, Antonio and Moreno
 title = {On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis},
 year = {2023},
 publisher = {Robotics: Science and Systems Conference (RSS)}
-}
-
 
 @Article{fahmi23tro,
 AUTHOR = {Fahmi, Shamel and Barasuol, Victor and Esteban, Domingo and Villarreal, Octavio and Semini, Claudio},
