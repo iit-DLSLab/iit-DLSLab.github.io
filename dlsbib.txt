@@ -84,6 +84,21 @@ OWNER = {phd}
 	year = {2023},
 	doi = {10.3390/robotics12010006}
 } 
+
+@INPROCEEDINGS{omar22irim,
+AUTHOR = {Omar, Shafeef and Amtucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor and Semini, Claudio},
+TITLE = {Fast Convex Visual Foothold Adaptation for Quadrupedal Locomotion},
+YEAR = {2022},
+BOOKTITLE = {I-RIM Conference}
+}
+
+@INPROCEEDINGS{milburn22irim,
+AUTHOR = {Milburn, Lee and Gamba, Juan and Semini, Claudio},
+TITLE = {Towards Computer-Vision Based Vineyard Navigation for Quadruped Robots},
+YEAR = {2022},
+BOOKTITLE = {I-RIM Conference}
+}
+
 	
 @INPROCEEDINGS{risiglione22iros,
   author = {Risiglione, Mattia and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
