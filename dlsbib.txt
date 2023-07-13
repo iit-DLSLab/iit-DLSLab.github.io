@@ -1,3 +1,15 @@
+@article{guadagna23precision,
+author = {Guadagna, P. and Fernandes, M. and Chen, F. and Santamaria, A. and Teng, Tao and Frioni, Tommaso and Caldwell, D. and Poni, S. and Semini, Claudio and Gatti, Matteo},
+year = {2023},
+month = {03},
+pages = {1-23},
+title = {Using deep learning for pruning region detection and plant organ segmentation in dormant spur-pruned grapevines},
+volume = {24},
+journal = {Precision Agriculture},
+doi = {10.1007/s11119-023-10006-y}
+}
+
+
 @INPROCEEDINGS{focchi23clawar,
 AUTHOR = {Focchi, Michele and Roscia, Francesco and Semini, Claudio},
 BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
