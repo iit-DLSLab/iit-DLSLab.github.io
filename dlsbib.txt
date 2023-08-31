@@ -1,3 +1,10 @@
+@Article{roscia23ral,
+AUTHOR = {Roscia, Francesco and Focchi, Michele and Del Prete, Andrea and Caldwell, Darwin G. and Semini, Claudio},
+TITLE = {Reactive Landing Controller for Quadruped Robots},
+YEAR = {2023},
+JOURNAL = IEEE Robotics and Automation Letters (RA-L)},
+}
+
 @article{guadagna23precision,
 author = {Guadagna, P. and Fernandes, M. and Chen, F. and Santamaria, A. and Teng, Tao and Frioni, Tommaso and Caldwell, D. and Poni, S. and Semini, Claudio and Gatti, Matteo},
 year = {2023},
