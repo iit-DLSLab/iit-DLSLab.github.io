@@ -212,6 +212,13 @@ NUMBER = {1},
 PAGES = {1--4},
 } 
 
+@INPROCEEDINGS{abdalla20irim,
+AUTHOR = {Abdalla Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio },
+TITLE = {The Reachable Region: a Fast Kinematic Feasibility Criterion for Legged Locomotion},
+YEAR = {2020},
+BOOKTITLE = {I-RIM Conference}
+}
+
 @Article{mastalli20tro,
 Author = {Mastalli, Carlos and Havoutis, Ioannis and Focchi, Michele and Caldwell, Darwin G. and Semini, Claudio},
 Title = {Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control},
