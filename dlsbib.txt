@@ -9,7 +9,7 @@
 AUTHOR = {Roscia, Francesco and Focchi, Michele and Del Prete, Andrea and Caldwell, Darwin G. and Semini, Claudio},
 TITLE = {Reactive Landing Controller for Quadruped Robots},
 YEAR = {2023},
-JOURNAL = IEEE Robotics and Automation Letters (RA-L)},
+JOURNAL = {IEEE Robotics and Automation Letters (RA-L)},
 }
 
 @article{guadagna23precision,
@@ -51,7 +51,11 @@ doi={10.1109/ICARSC58346.2023.10129563}
 Title = {A Springy Leg and a Double Backflip},
 Author = {Gamba, Juan D. and Featherstone, Roy},
 Journal = {IEEE Robotics and Automation Letters (RA-L)},
-Year = {2023}
+Year = {2023},
+volume={8},
+number={8},
+pages={4657-4664},
+doi={10.1109/LRA.2023.3287769}
 }
 
 @article{ordonez23rss,
@@ -78,6 +82,7 @@ author = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semin
 title = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
 year = {2023},
 journal = {IEEE Transactions on Robotics}
+doi={10.1109/TRO.2023.3280431}
 }
 
 @PHDTHESIS{bratta23phd,
@@ -130,7 +135,9 @@ BOOKTITLE = {I-RIM Conference}
   author = {Risiglione, Mattia and Barasuol, Victor and Caldwell, Darwin G. and Semini, Claudio},
   title = {A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators},
   publisher = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})},
-  year = {2022}
+  year = {2022},
+  pages={9620-9627},
+  doi={10.1109/IROS47612.2022.9981895}
 }
 
 @INPROCEEDINGS{dettmann22astra,
