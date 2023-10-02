@@ -1,3 +1,10 @@
+@INPROCEEDINGS{parosi23iros,
+      title={Kinematically-Decoupled Impedance Control for Fast Object Visual Servoing and Grasping on Quadruped Manipulators},
+      author={Riccardo Parosi and Mattia Risiglione and Darwin G. Caldwell and Claudio Semini and Victor Barasuol},
+      year={2023},
+      BOOKTITLE={{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})}
+}
+
 @Article{roscia23ral,
 AUTHOR = {Roscia, Francesco and Focchi, Michele and Del Prete, Andrea and Caldwell, Darwin G. and Semini, Claudio},
 TITLE = {Reactive Landing Controller for Quadruped Robots},
