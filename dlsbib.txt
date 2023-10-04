@@ -120,14 +120,18 @@ OWNER = {phd}
 AUTHOR = {Omar, Shafeef and Amtucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor and Semini, Claudio},
 TITLE = {Fast Convex Visual Foothold Adaptation for Quadrupedal Locomotion},
 YEAR = {2022},
-BOOKTITLE = {I-RIM Conference}
+BOOKTITLE = {I-RIM Conference},
+PAGES={143-146},
+DOI={110.5281/zenodo.7531324}
 }
 
 @INPROCEEDINGS{milburn22irim,
 AUTHOR = {Milburn, Lee and Gamba, Juan and Semini, Claudio},
 TITLE = {Towards Computer-Vision Based Vineyard Navigation for Quadruped Robots},
 YEAR = {2022},
-BOOKTITLE = {I-RIM Conference}
+BOOKTITLE = {I-RIM Conference},
+PAGES={148-151},
+DOI={10.5281/zenodo.7531328}
 }
 
 	
@@ -195,13 +199,6 @@ YEAR = {2021},
 BOOKTITLE = {I-RIM Conference}
 }
 
-@article{abdalla23tro,
-author = {Abdalla, Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio},
-title = {An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion},
-year = {2023},
-journal = {IEEE Transactions on Robotics}
-}
-
 @misc{rathod21access,
       title={Model Predictive Control with Environment Adaptation for Legged Locomotion}, 
       author={Niraj Rathod and Angelo Bratta and Michele Focchi and Mario Zanon and Octavio Villarreal and Claudio Semini and Alberto Bemporad},
@@ -225,6 +222,30 @@ VOLUME = {5},
 NUMBER = {1},
 PAGES = {1--4},
 } 
+
+@Inbook{boaventura20springer,
+author={Boaventura, Thiago and Semini, Claudio},
+editor={Ang, Marcelo H. and Khatib, Oussama and Siciliano, Bruno},
+title={Hydraulic Actuation},
+booktitle={Encyclopedia of Robotics},
+year={2020},
+publisher={Springer Berlin Heidelberg},
+pages={1--10},
+isbn={978-3-642-41610-1},
+doi={10.1007/978-3-642-41610-1_116-1}
+}
+
+@Inbook{semini20springer,
+author={Semini, Claudio and Wieber, Pierre-Brice},
+editor={Ang, Marcelo H. and Khatib, Oussama and Siciliano, Bruno},
+title={Legged Robots},
+bookTitle={Encyclopedia of Robotics},
+year={2020},
+publisher={Springer Berlin Heidelberg},
+pages={1--8},
+isbn={978-3-642-41610-1},
+doi={10.1007/978-3-642-41610-1_59-1}
+}
 
 @INPROCEEDINGS{abdalla20irim,
 AUTHOR = {Abdalla Abdelrahman and Focchi, Michele and Orsolino, Romeo and Semini, Claudio },
