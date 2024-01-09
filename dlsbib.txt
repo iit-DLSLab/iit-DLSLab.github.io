@@ -9,8 +9,7 @@ BOOKTITLE = {I-RIM Conference}
 author = {Omar, Shafeef and Amatucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor. and Semini, Claudio,
 title = {SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priorss},
 booktitle={IEEE-RAS International Conference on Humanoid Robots )},
-year = {2023},
-note={accepted}
+year = {2023}
 }
 
 @INPROCEEDINGS{parosi23iros,
@@ -37,7 +36,6 @@ volume = {24},
 journal = {Precision Agriculture},
 doi = {10.1007/s11119-023-10006-y}
 }
-
 
 @INPROCEEDINGS{focchi23clawar,
 AUTHOR = {Focchi, Michele and Roscia, Francesco and Semini, Claudio},
@@ -237,6 +235,15 @@ VOLUME = {5},
 NUMBER = {1},
 PAGES = {1--4},
 } 
+
+@INPROCEEDINGS{fernandes21cyber,
+  author={Fernandes, Miguel and Scaldaferri, Antonello and Fiameni, Giuseppe and Teng, Tao and Gatti, Matteo and Poni, Stefano and Semini, Claudio and Caldwell, Darwin and Chen, Fei},
+  booktitle={2021 IEEE 11th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)},
+  title={Grapevine Winter Pruning Automation: On Potential Pruning Points Detection through 2D Plant Modeling using Grapevine Segmentation},
+  year={2021},
+  pages={13-18},
+  doi={10.1109/CYBER53097.2021.9588303}
+}
 
 @Inbook{boaventura20springer,
 author={Boaventura, Thiago and Semini, Claudio},
