@@ -1,3 +1,11 @@
+@INPROCEEDINGS{barasuol24icra,
+  author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  title={Introducing the Carpal-Claw: a Mechanism to Enhance High-Obstacle Negotiation for Quadruped Robots},
+  year={2024},
+  note = {accepted}
+  }
+
 @INPROCEEDINGS{gamba23irim,
 AUTHOR = {Gamba, Juan D. and Arpenti, Pierluigi and Ruggiero, Fabio and Semini, Claudio},
 TITLE = {An Effective Robotic End-Effector Engagement Approach for Automated Grapevine Pruning on a Quadrupedal Manipulator},
