@@ -1,6 +1,6 @@
 @PHDTHESIS{roscia24phd,
 AUTHOR = {Roscia, Francesco},
-TITLE = {Towards Safe and Stable Landing Control for Quadruped Robots,
+TITLE = {Towards Safe and Stable Landing Control for Quadruped Robots},
 SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
 YEAR = {2024},
 OWNER = {phd},
@@ -8,12 +8,12 @@ TIMESTAMP = {2024.02.20}
 }
 
 @INPROCEEDINGS{barasuol24icra,
-  author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  title={Introducing the Carpal-Claw: a Mechanism to Enhance High-Obstacle Negotiation for Quadruped Robots},
-  year={2024},
-  note = {accepted}
-  }
+author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
+booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+title={Introducing the Carpal-Claw: a Mechanism to Enhance High-Obstacle Negotiation for Quadruped Robots},
+year={2024},
+note = {accepted}
+}
 
 @INPROCEEDINGS{gamba23irim,
 AUTHOR = {Gamba, Juan D. and Arpenti, Pierluigi and Ruggiero, Fabio and Semini, Claudio},
@@ -26,14 +26,24 @@ BOOKTITLE = {I-RIM Conference}
 author = {Omar, Shafeef and Amatucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor. and Semini, Claudio,
 title = {SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priorss},
 booktitle={IEEE-RAS International Conference on Humanoid Robots )},
-year = {2023}
+year = {2023},
+doi = {10.1109/Humanoids57100.2023.1037521}
 }
 
 @INPROCEEDINGS{parosi23iros,
-      title={Kinematically-Decoupled Impedance Control for Fast Object Visual Servoing and Grasping on Quadruped Manipulators},
-      author={Riccardo Parosi and Mattia Risiglione and Darwin G. Caldwell and Claudio Semini and Victor Barasuol},
-      year={2023},
-      BOOKTITLE={{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})}
+title={Kinematically-Decoupled Impedance Control for Fast Object Visual Servoing and Grasping on Quadruped Manipulators},
+author={Riccardo Parosi and Mattia Risiglione and Darwin G. Caldwell and Claudio Semini and Victor Barasuol},
+year={2023},
+booktitle={{IEEE/RSJ} International Conference on Intelligent Robots and Systems ({IROS})},
+doi={10.1109/IROS55552.2023.10341714}
+}
+
+@INPROCEEDINGS{taouil23iros,
+author = {Taouil, Ilyass and Turrisi, Giulio and Schleich, Daniel and Barasuol, Victor and Semini, Claudio and Behnke, Sven},
+title = {Quadrupedal Footstep Planning using LearnedMotion Models of a Black-Box Controller},
+booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems ({IROS})},
+year = {2023},
+doi={10.1109/IROS55552.2023.10342440}
 }
 
 @Article{roscia23ral,
@@ -41,6 +51,11 @@ AUTHOR = {Roscia, Francesco and Focchi, Michele and Del Prete, Andrea and Caldwe
 TITLE = {Reactive Landing Controller for Quadruped Robots},
 YEAR = {2023},
 JOURNAL = {IEEE Robotics and Automation Letters (RA-L)},
+VOLUME={8},
+NUMBER={11},
+PAGES={7210-7217},
+DOI={10.1109/LRA.2023.3313919}
+
 }
 
 @article{guadagna23precision,
@@ -59,6 +74,7 @@ AUTHOR = {Focchi, Michele and Roscia, Francesco and Semini, Claudio},
 BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
 TITLE = {Locosim: an Open-Source Cross-PlatformRobotics Framework},
 YEAR = {2023},
+DOI = {10.1007/978-3-031-47272-5_33}
 }
 
 @INPROCEEDINGS{barasuol23clawar,
@@ -66,6 +82,7 @@ AUTHOR = {Barasuol, Victor and Emre, Sinan and Semini, Claudio},
 BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
 TITLE = {Stair-Climbing Charts: on the optimal body height for quadruped robots to walk on stairs},
 YEAR = {2023},
+DOI = {10.1007/978-3-031-47269-5_24}
 }
 
 @INPROCEEDINGS{milburn23icarsc,
