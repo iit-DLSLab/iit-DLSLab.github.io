@@ -1,3 +1,12 @@
+@PHDTHESIS{roscia24phd,
+AUTHOR = {Roscia, Francesco},
+TITLE = {Towards Safe and Stable Landing Control for Quadruped Robots,
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2024},
+OWNER = {phd},
+TIMESTAMP = {2024.02.20}
+}
+
 @INPROCEEDINGS{barasuol24icra,
   author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
   booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
@@ -523,8 +532,7 @@ AUTHOR = {Orsolino, Romeo},
 TITLE = {Actuation-Aware Simplified Dynamic Models for Robotic Legged Locomotion},
 SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
 YEAR = {2019},
-OWNER = {phd},
-TIMESTAMP = {2020.03.30},
+OWNER = {phd}
 } 
 
 @PHDTHESIS{gao18phd,
