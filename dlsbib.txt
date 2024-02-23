@@ -1,12 +1,3 @@
-@PHDTHESIS{roscia24phd,
-AUTHOR = {Roscia, Francesco},
-TITLE = {Towards Safe and Stable Landing Control for Quadruped Robots},
-SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
-YEAR = {2024},
-OWNER = {phd},
-TIMESTAMP = {2024.02.20}
-}
-
 @INPROCEEDINGS{barasuol24icra,
 author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
 booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
@@ -71,17 +62,17 @@ doi = {10.1007/s11119-023-10006-y}
 
 @INPROCEEDINGS{focchi23clawar,
 AUTHOR = {Focchi, Michele and Roscia, Francesco and Semini, Claudio},
-BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
+BOOKTITLE = {Synergetic Cooperation between Robots and Humans. CLAWAR 2023. Lecture Notes in Networks and Systems},
 TITLE = {Locosim: an Open-Source Cross-PlatformRobotics Framework},
-YEAR = {2023},
+YEAR = {2024},
 DOI = {10.1007/978-3-031-47272-5_33}
 }
 
 @INPROCEEDINGS{barasuol23clawar,
 AUTHOR = {Barasuol, Victor and Emre, Sinan and Semini, Claudio},
-BOOKTITLE = {Accepted for International Conference on Climbing and Walking Robots ({CLAWAR})},
+BOOKTITLE = {Synergetic Cooperation between Robots and Humans. CLAWAR 2023. Lecture Notes in Networks and Systems},
 TITLE = {Stair-Climbing Charts: on the optimal body height for quadruped robots to walk on stairs},
-YEAR = {2023},
+YEAR = {2024},
 DOI = {10.1007/978-3-031-47269-5_24}
 }
 
