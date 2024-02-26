@@ -37,6 +37,12 @@ year = {2023},
 doi={10.1109/IROS55552.2023.10342440}
 }
 
+@INPROCEEDINGS{barasuol23astra,
+author={Barasuol, Victor and Villa, Matteo and Marchitto, Marco and Cerilli, Gianluca and Semini, Claudio},
+title={Controlled Sliding Locomotion for Legged Rovers on Steep Terrain During Space Exploration},
+booktitle={17th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)},
+year={2023}}
+
 @Article{roscia23ral,
 AUTHOR = {Roscia, Francesco and Focchi, Michele and Del Prete, Andrea and Caldwell, Darwin G. and Semini, Claudio},
 TITLE = {Reactive Landing Controller for Quadruped Robots},
@@ -184,9 +190,9 @@ DOI={10.5281/zenodo.7531328}
 
 @INPROCEEDINGS{dettmann22astra,
   author={Dettmann, Alexander and Planthaber, Steffen and Bargsten, Vinzenz and Dominguez, Raul and Cerilli, Gianluca and Marchitto, Marco and Fink, Geoff
-  and Focchi, Michel and Barasuol, Victor and Semini, Claudio and Marc, Robert},
+  and Focchi, Michele and Barasuol, Victor and Semini, Claudio and Marc, Robert},
   title={Towards a Generic Navigation and Locomotion Control System for Legged Space Exploration},
-  booktitle={ASTRA},
+  booktitle={16th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)},
   year={2022}}
 
 @INPROCEEDINGS{amatucci2022icra,
