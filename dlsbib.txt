@@ -1,9 +1,16 @@
+@INPROCEEDINGS{bratta24ur,
+author={Bratta, Angelo and Meduri, Avadesh and Focchi, Michele and Righetti, Ludovic and Semini, Claudio },
+booktitle={21st International Conference on Ubiquitous Robots (UR)},
+title={ContactNet: Online Multi-Contact Planning for Acyclic Legged Robot Locomotion},
+year={2024},
+note = {accepted}
+}
+
 @INPROCEEDINGS{barasuol24icra,
 author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
 booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
 title={Introducing the Carpal-Claw: a Mechanism to Enhance High-Obstacle Negotiation for Quadruped Robots},
-year={2024},
-note = {accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{gamba23irim,
