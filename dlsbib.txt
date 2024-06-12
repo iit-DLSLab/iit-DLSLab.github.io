@@ -1,5 +1,13 @@
+@INPROCEEDINGS{abati24ur,
+author={Abati, Gabriel Fischer and Virgolino Soares, Joao Carlos and Suzano Medeiros, Vivian and Meggiolaro, Marco Antonio and Semini, Claudio},
+booktitle={21st International Conference on Ubiquitous Robots (UR)},
+title={Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation},
+year={2024},
+note = {accepted}
+}
+
 @INPROCEEDINGS{bratta24ur,
-author={Bratta, Angelo and Meduri, Avadesh and Focchi, Michele and Righetti, Ludovic and Semini, Claudio },
+author={Bratta, Angelo and Meduri, Avadesh and Focchi, Michele and Righetti, Ludovic and Semini, Claudio},
 booktitle={21st International Conference on Ubiquitous Robots (UR)},
 title={ContactNet: Online Multi-Contact Planning for Acyclic Legged Robot Locomotion},
 year={2024},
@@ -7,7 +15,7 @@ note = {accepted}
 }
 
 @INPROCEEDINGS{barasuol24icra,
-author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio },
+author={Barasuol, Victor and Emre, Sinan and Suzano Medeiros, Vivian and Bratta, Angelo and Semini, Claudio},
 booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
 title={Introducing the Carpal-Claw: a Mechanism to Enhance High-Obstacle Negotiation for Quadruped Robots},
 year={2024}
@@ -21,8 +29,8 @@ BOOKTITLE = {I-RIM Conference}
 }
 
 @INPROCEEDINGS{omar23humanoids,
-author = {Omar, Shafeef and Amatucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor. and Semini, Claudio,
-title = {SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priorss},
+author = {Omar, Shafeef and Amatucci, Lorenzo and Turrisi, Giulio and Barasuol, Victor and Semini, Claudio},
+title = {SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priors},
 booktitle={IEEE-RAS International Conference on Humanoid Robots )},
 year = {2023},
 doi = {10.1109/Humanoids57100.2023.1037521}
