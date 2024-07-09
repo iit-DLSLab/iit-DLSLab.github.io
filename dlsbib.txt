@@ -1,17 +1,23 @@
+@INPROCEEDINGS{rad24mesa,
+author={Rad, Amir H. and Villa, Matteo and Bratta, Angelo and Zuppi, Matteo and Semini, Claudio},
+booktitle={IEEE/ASME MESA 2024 – 20th Int. Conference on Mechatronic, Embedded Systems and Applications},
+title={Design of a Container Mechanism for Trash Collection on Quadruped Robots},
+year={2024},
+note={accepted}
+}
+
 @INPROCEEDINGS{abati24ur,
 author={Abati, Gabriel Fischer and Virgolino Soares, Joao Carlos and Suzano Medeiros, Vivian and Meggiolaro, Marco Antonio and Semini, Claudio},
 booktitle={21st International Conference on Ubiquitous Robots (UR)},
 title={Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation},
-year={2024},
-note = {accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{bratta24ur,
 author={Bratta, Angelo and Meduri, Avadesh and Focchi, Michele and Righetti, Ludovic and Semini, Claudio},
 booktitle={21st International Conference on Ubiquitous Robots (UR)},
 title={ContactNet: Online Multi-Contact Planning for Acyclic Legged Robot Locomotion},
-year={2024},
-note = {accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{barasuol24icra,
