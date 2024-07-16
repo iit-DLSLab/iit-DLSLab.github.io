@@ -1,3 +1,9 @@
+@INPROCEEDINGS{ordonez24l4dc,
+author = {Ordoñez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio and Novelli, Pietro and Mastalli, Carlos and Semini, Claudio and Pontil, Massimiliano},<br />
+title = {Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling},
+booktitle={Proceedings of the 6th Annual Learning for Dynamics &amp; Control Conference (PMLR)},
+year = {2024}
+
 @INPROCEEDINGS{rad24mesa,
 author={Rad, Amir H. and Villa, Matteo and Bratta, Angelo and Zuppi, Matteo and Semini, Claudio},
 booktitle={IEEE/ASME MESA 2024 – 20th Int. Conference on Mechatronic, Embedded Systems and Applications},
