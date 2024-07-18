@@ -1,3 +1,11 @@
+@article{amatucci24jfr,
+author = {Amatucci, Lorenzo and Turrisi, Giulio and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
+title = {VERO: A vacuum-cleaner-equipped quadruped robot for efficient litter removal},
+journal = {Journal of Field Robotics},
+doi = {https://doi.org/10.1002/rob.22350}
+year = {2024}
+}
+
 @INPROCEEDINGS{ordonez24l4dc,
 author = {Ordoñez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio and Novelli, Pietro and Mastalli, Carlos and Semini, Claudio and Pontil, Massimiliano},<br />
 title = {Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling},
