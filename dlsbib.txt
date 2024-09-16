@@ -15,13 +15,12 @@ note={accepted}
 }
 
 @INPROCEEDINGS{barasuol24iros,
-author={Turrisi, Giulio, and Schulze, Lucas and Medeiros, Vivian S. and Semini, Claudio and Barasuol, Claudio},
+author={Turrisi, Giulio, and Schulze, Lucas and Medeiros, Vivian S. and Semini, Claudio and Barasuol, Victor},
 title={PACC: A Passive-Arm Approach for High-Payload Collaborative Carrying with Quadruped Robots Using Model Predictive Control},
 booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
 year={2024},
 note={accepted}
 }
-
 
 @INPROCEEDINGS{turrisi24iros,
 author={Turrisi, Giulio, and Modugno, Valerio and Amatucci, Lorenzo and Kanoulas, Dimitrios and Semini, Claudio},
