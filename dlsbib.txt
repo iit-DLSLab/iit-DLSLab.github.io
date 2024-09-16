@@ -1,37 +1,73 @@
+@INPROCEEDINGS{su24iros,
+author={Su, Zhi and Huang, Xiaoyu and Ordoñez-Apraez, Daniel and Li, Zhongyu and Liao, Qiayuan and Turrisi, Giulio and Pontil, Massimiliano and Semini, Claudio and Wu, Yi and Sreenath, Koushil},
+title={Leveraging Symmetry in RL-based Legged Locomotion Control},
+booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+year={2024},
+note={accepted}
+}
+
+@INPROCEEDINGS{amatucci24iros,
+author={Amatucci, Lorenzo and Turrisi, Giulio and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
+title={Accelerating Model Predictive Control for Legged Robots through Distributed Optimization},
+booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+year={2024},
+note={accepted}
+}
+
+@INPROCEEDINGS{barasuol24iros,
+author={Turrisi, Giulio, and Schulze, Lucas and Medeiros, Vivian S. and Semini, Claudio and Barasuol, Claudio},
+title={PACC: A Passive-Arm Approach for High-Payload Collaborative Carrying with Quadruped Robots Using Model Predictive Control},
+booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+year={2024},
+note={accepted}
+}
+
+
+@INPROCEEDINGS{turrisi24iros,
+author={Turrisi, Giulio, and Modugno, Valerio and Amatucci, Lorenzo and Kanoulas, Dimitrios and Semini, Claudio},
+title={On the Benefits of GPU Sample-Based Stochastic Predictive Controllers for Legged Locomotion},
+booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+note={accepted}
+}
+
 @article{amatucci24jfr,
-author = {Amatucci, Lorenzo and Turrisi, Giulio and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
-title = {VERO: A vacuum-cleaner-equipped quadruped robot for efficient litter removal},
-journal = {Journal of Field Robotics},
-doi = {https://doi.org/10.1002/rob.22350}
-year = {2024}
+author={Amatucci, Lorenzo and Turrisi, Giulio and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
+title={VERO: A vacuum-cleaner-equipped quadruped robot for efficient litter removal},
+journal={Journal of Field Robotics},
+doi={https://doi.org/10.1002/rob.22350},
+year={2024}
 }
 
 @INPROCEEDINGS{ordonez24l4dc,
-author = {Ordoñez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio and Novelli, Pietro and Mastalli, Carlos and Semini, Claudio and Pontil, Massimiliano},<br />
-title = {Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling},
+author={Ordoñez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio and Novelli, Pietro and Mastalli, Carlos and Semini, Claudio and Pontil, Massimiliano},<br />
+title={Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling},
 booktitle={Proceedings of the 6th Annual Learning for Dynamics &amp; Control Conference (PMLR)},
-year = {2024}
+year={2024}
+}
 
 @INPROCEEDINGS{rad24mesa,
 author={Rad, Amir H. and Villa, Matteo and Bratta, Angelo and Zuppi, Matteo and Semini, Claudio},
 booktitle={IEEE/ASME MESA 2024 – 20th Int. Conference on Mechatronic, Embedded Systems and Applications},
 title={Design of a Container Mechanism for Trash Collection on Quadruped Robots},
-year={2024},
-note={accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{abati24ur,
 author={Abati, Gabriel Fischer and Virgolino Soares, Joao Carlos and Suzano Medeiros, Vivian and Meggiolaro, Marco Antonio and Semini, Claudio},
 booktitle={21st International Conference on Ubiquitous Robots (UR)},
 title={Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation},
-year={2024}
+year={2024},
+pages={01-08},
+doi={10.1109/UR61395.2024.10597506}
 }
 
 @INPROCEEDINGS{bratta24ur,
 author={Bratta, Angelo and Meduri, Avadesh and Focchi, Michele and Righetti, Ludovic and Semini, Claudio},
 booktitle={21st International Conference on Ubiquitous Robots (UR)},
 title={ContactNet: Online Multi-Contact Planning for Acyclic Legged Robot Locomotion},
-year={2024}
+year={2024},
+pages={747-754},
+doi={10.1109/UR61395.2024.10597477}
 }
 
 @INPROCEEDINGS{barasuol24icra,
