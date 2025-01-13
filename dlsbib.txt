@@ -1,32 +1,51 @@
+@ARTICLE{taouilral2025,
+  author={Taouil, Ilyass and Amatucci, Lorenzo and Khadiv, Majid and Dai, Angela and Barasuol, Victor and Turrisi, Giulio and Semini, Claudio},
+  journal={IEEE Robotics and Automation Letters},
+  title={Non-Gaited Legged Locomotion With Monte-Carlo Tree Search and Supervised Learning},
+  year={2025},
+  volume={10},
+  number={2},
+  pages={1265-1272},
+  doi={10.1109/LRA.2024.3519908}
+}
+
+@article{ordoneijrr25,
+author = {Ordoñez Apraez, Daniel and Turrisi, Giulio and Kostic, Vladimir and Martin, Mario and Agudo, Antonio and Moreno-Noguer, Francesc Pontil, Massimiliano and Semini, Claudio and Mastalli, Carlos},
+title ={Morphological symmetries in robotics},
+journal = {The International Journal of Robotics Research},
+volume = {0},
+number = {0},
+pages = {1-24},
+year = {2025},
+doi = {10.1177/02783649241282422},
+}
+
 @INPROCEEDINGS{su24iros,
 author={Su, Zhi and Huang, Xiaoyu and Ordoñez-Apraez, Daniel and Li, Zhongyu and Liao, Qiayuan and Turrisi, Giulio and Pontil, Massimiliano and Semini, Claudio and Wu, Yi and Sreenath, Koushil},
 title={Leveraging Symmetry in RL-based Legged Locomotion Control},
 booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-year={2024},
-note={accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{amatucci24iros,
 author={Amatucci, Lorenzo and Turrisi, Giulio and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
 title={Accelerating Model Predictive Control for Legged Robots through Distributed Optimization},
 booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-year={2024},
-note={accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{barasuol24iros,
 author={Turrisi, Giulio, and Schulze, Lucas and Medeiros, Vivian S. and Semini, Claudio and Barasuol, Victor},
 title={PACC: A Passive-Arm Approach for High-Payload Collaborative Carrying with Quadruped Robots Using Model Predictive Control},
 booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-year={2024},
-note={accepted}
+year={2024}
 }
 
 @INPROCEEDINGS{turrisi24iros,
 author={Turrisi, Giulio, and Modugno, Valerio and Amatucci, Lorenzo and Kanoulas, Dimitrios and Semini, Claudio},
 title={On the Benefits of GPU Sample-Based Stochastic Predictive Controllers for Legged Locomotion},
 booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-note={accepted}
+year={2024}
 }
 
 @article{amatucci24jfr,
