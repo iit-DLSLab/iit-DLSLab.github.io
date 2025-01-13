@@ -9,7 +9,7 @@
   doi={10.1109/LRA.2024.3519908}
 }
 
-@article{ordoneijrr25,
+@article{ordonezijrr25,
 author = {Ordoñez Apraez, Daniel and Turrisi, Giulio and Kostic, Vladimir and Martin, Mario and Agudo, Antonio and Moreno-Noguer, Francesc Pontil, Massimiliano and Semini, Claudio and Mastalli, Carlos},
 title ={Morphological symmetries in robotics},
 journal = {The International Journal of Robotics Research},
