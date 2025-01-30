@@ -1,4 +1,4 @@
-@ARTICLE{taouilral2025,
+@ARTICLE{taouil25ral,
   author={Taouil, Ilyass and Amatucci, Lorenzo and Khadiv, Majid and Dai, Angela and Barasuol, Victor and Turrisi, Giulio and Semini, Claudio},
   journal={IEEE Robotics and Automation Letters},
   title={Non-Gaited Legged Locomotion With Monte-Carlo Tree Search and Supervised Learning},
@@ -9,7 +9,14 @@
   doi={10.1109/LRA.2024.3519908}
 }
 
-@article{ordonezijrr25,
+@ARTICLE{focchi25ras,
+author={Focchi, Focchi and Del Prete, Andrea and Fontanelli, Daniele and Frego, Marco and Peer, Angelika and Palopoli, Luigi},
+title={ALPINE: a Climbing Robot for Operations in Mountain Environments},
+journal={Robotics and Autonomous Systems (RAS)},
+year={2025}
+}
+
+@ARTICLE{ordonez25ijrr,
 author = {Ordoñez Apraez, Daniel and Turrisi, Giulio and Kostic, Vladimir and Martin, Mario and Agudo, Antonio and Moreno-Noguer, Francesc Pontil, Massimiliano and Semini, Claudio and Mastalli, Carlos},
 title ={Morphological symmetries in robotics},
 journal = {The International Journal of Robotics Research},
@@ -18,6 +25,13 @@ number = {0},
 pages = {1-24},
 year = {2025},
 doi = {10.1177/02783649241282422},
+}
+
+@INPROCEEDINGS{bussola24irim,
+author = {Bussola, Riccardo and Focchi, Michele and Zilio, Nicola and Palopoli, Luigi and Fontanelli, Daniele},
+title = {Distributed Robot Perception for Tracked Vehicles},
+year = {2024},
+booktitle = {I-RIM Conference}
 }
 
 @INPROCEEDINGS{su24iros,
