@@ -27,6 +27,13 @@ year = {2025},
 doi = {10.1177/02783649241282422},
 }
 
+@INPROCEEDINGS{tefera24telepresence,
+author = {Tefera, Yonas T. and Sarakoglou, Ioannis and Deore, Siddharth N. and Kim, Yaesol and Barasuol, Victor and Villa, Matteo and Anastasi, Sara and Caldwell, Darwin G. and Tsagarakis, Nikos and Semini, Claudio and Deshpande, Nikhil}
+title = {ROBOT TELEOPERATIVO: Collaborative Cybernetic Systems for Immersive Remote Teleoperation},
+booktitle={2024 IEEE Conference on Telepresence},
+year = {2024}
+}
+
 @INPROCEEDINGS{bussola24irim,
 author = {Bussola, Riccardo and Focchi, Michele and Zilio, Nicola and Palopoli, Luigi and Fontanelli, Daniele},
 title = {Distributed Robot Perception for Tracked Vehicles},
