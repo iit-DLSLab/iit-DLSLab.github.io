@@ -1,1 +1,1 @@
-# For the DLS Website follow [this](https://dls.iit.it/) link
+# For the DLS Website please visit [https://dls.iit.it/](https://dls.iit.it/).
