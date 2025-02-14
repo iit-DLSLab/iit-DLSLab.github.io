@@ -34,6 +34,16 @@ booktitle={2024 IEEE Conference on Telepresence},
 year = {2024}
 }
 
+@INPROCEEDINGS{santana2024,
+  author={Santana, Hilton Marques Souza and Soares, João Carlos Virgolino and Nisticò, Ylenia and Meggiolaro, Marco Antonio and Semini, Claudio},
+  booktitle={2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)},
+  title={Proprioceptive State Estimation for Quadruped Robots using Invariant Kalman Filtering and Scale-Variant Robust Cost Functions},
+  year={2024},
+  pages={213-220},
+  doi={10.1109/Humanoids58906.2024.10769911}
+}
+
+
 @INPROCEEDINGS{bussola24irim,
 author = {Bussola, Riccardo and Focchi, Michele and Zilio, Nicola and Palopoli, Luigi and Fontanelli, Daniele},
 title = {Distributed Robot Perception for Tracked Vehicles},
