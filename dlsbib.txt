@@ -1,3 +1,11 @@
+@INPROCEEDINGS{barasuol24icra,
+author={Adlerstein, Michael and Virgolino Soares, João Carlos and Bratta, Angelo and Semini, Claudio},
+booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+title={{SANDRO}: a Robust Solver with a Splitting Strategy for Point Cloud Registration},
+year={2025}
+note={accepted}
+}
+
 @ARTICLE{taouil25ral,
   author={Taouil, Ilyass and Amatucci, Lorenzo and Khadiv, Majid and Dai, Angela and Barasuol, Victor and Turrisi, Giulio and Semini, Claudio},
   journal={IEEE Robotics and Automation Letters},
@@ -35,7 +43,7 @@ year = {2024}
 }
 
 @INPROCEEDINGS{santana2024,
-  author={Santana, Hilton Marques Souza and Soares, João Carlos Virgolino and Nisticò, Ylenia and Meggiolaro, Marco Antonio and Semini, Claudio},
+  author={Santana, Hilton Marques Souza and Virgolino Soares, João Carlos and Nisticò, Ylenia and Meggiolaro, Marco Antonio and Semini, Claudio},
   booktitle={2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)},
   title={Proprioceptive State Estimation for Quadruped Robots using Invariant Kalman Filtering and Scale-Variant Robust Cost Functions},
   year={2024},
