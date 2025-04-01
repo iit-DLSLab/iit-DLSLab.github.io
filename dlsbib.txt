@@ -1,5 +1,16 @@
-@INPROCEEDINGS{barasuol24icra,
-author={Adlerstein, Michael and Virgolino Soares, João Carlos and Bratta, Angelo and Semini, Claudio},
+@ARTICLE{taseElbou25,
+  author={Bou, Cheikh Melainine El and Focchi, Michele and Chang, Michael and Camurri, Marco and Von Ellenrieder, Karl D.},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  title={Smooth Human-Robot Shared Control for Autonomous Orchard Monitoring with UGVs},
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Robots;Trajectory;Collision avoidance;Mobile robots;Control systems;Trajectory tracking;Sensors;Robot kinematics;Asymptotic stability;Predictive models;Human-robot shared control;collision avoidance;trajectory tracking;field robotics;agricultural automation},
+  doi={10.1109/TASE.2025.3554368}}
+
+@INPROCEEDINGS{adlerstein25icra,
+author={Adlerstein, Michael and Soares, João Carlos Virgolino and Bratta, Angelo and Semini, Claudio},
 booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
 title={{SANDRO}: a Robust Solver with a Splitting Strategy for Point Cloud Registration},
 year={2025}
