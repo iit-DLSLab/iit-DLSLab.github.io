@@ -1,3 +1,21 @@
+@ARTICLE{nistico2025muse,
+title={MUSE: A real-time multi-sensor state estimator for quadruped robots},
+author={Nistic{\`o}, Ylenia and Soares, Jo{\~a}o Carlos Virgolino and Amatucci, Lorenzo and Fink, Geoff and Semini, Claudio},
+journal={IEEE Robotics and Automation Letters},
+year={2025},
+publisher={IEEE},
+DOI={10.1109/LRA.2025.3553047}
+}
+
+@ARTICLE{nistico2025multi,
+title={Multi-Sensor Fusion for Quadruped Robot State Estimation Using Invariant Filtering and Smoothing},
+author={Nistic{\`o}, Ylenia and Kim, Hajun and Soares, Jo{\~a}o Carlos Virgolino and Fink, Geoff and Park, Hae-Won and Semini, Claudio},
+journal={IEEE Robotics and Automation Letters},
+year={2025},
+publisher={IEEE},
+DOI={10.1109/LRA.2025.3564711}
+}
+
 @ARTICLE{taseElbou25,
   author={Bou, Cheikh Melainine El and Focchi, Michele and Chang, Michael and Camurri, Marco and Von Ellenrieder, Karl D.},
   journal={IEEE Transactions on Automation Science and Engineering},
