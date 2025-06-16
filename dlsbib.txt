@@ -64,6 +64,14 @@ year = {2025},
 doi = {10.1177/02783649241282422},
 }
 
+@PHDTHESIS{fernandes24phd,
+AUTHOR = {Fernandes, Miguel},
+TITLE = {Robotic Grapevine Winter Pruning through Vision and AI},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2024},
+OWNER = {phd}
+}
+
 @INPROCEEDINGS{tefera24telepresence,
 author = {Tefera, Yonas T. and Sarakoglou, Ioannis and Deore, Siddharth N. and Kim, Yaesol and Barasuol, Victor and Villa, Matteo and Anastasi, Sara and Caldwell, Darwin G. and Tsagarakis, Nikos and Semini, Claudio and Deshpande, Nikhil}
 title = {ROBOT TELEOPERATIVO: Collaborative Cybernetic Systems for Immersive Remote Teleoperation},
