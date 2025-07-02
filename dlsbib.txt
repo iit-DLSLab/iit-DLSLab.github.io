@@ -1,3 +1,13 @@
+@ARTICLE{fernandes25computers,
+title={Grapevine winter pruning: Merging 2D segmentation and 3D point clouds for pruning point generation},
+author={Fernandes, Miguel and Gamba, Juan D. and Pelusi, Francesco and Bratta, Angelo and Caldwell, Darwin G. and Poni, Stefano and Gatti, Matteo and Semini, Claudio},
+journal={Computers and Electronics in Agriculture},
+volume = {237},
+pages = {110589},
+year={2025},
+DOI={10.1016/j.compag.2025.110589}
+}
+
 @ARTICLE{nistico2025muse,
 title={MUSE: A real-time multi-sensor state estimator for quadruped robots},
 author={Nistic{\`o}, Ylenia and Soares, Jo{\~a}o Carlos Virgolino and Amatucci, Lorenzo and Fink, Geoff and Semini, Claudio},
