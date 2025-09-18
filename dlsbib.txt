@@ -1,3 +1,14 @@
+@ARTICLE{elobaid2025adaptivestablempc,
+  author={Elobaid, Mohamed and Turrisi, Giulio and Rapetti, Lorenzo and Romualdi, Giulio and Dafarra, Stefano and Kawakami, Tomohiro and Chaki, Tomohiro and Yoshiike, Takahide and Semini, Claudio and Pucci, Daniele},
+  journal={IEEE Robotics and Automation Letters},
+  title={Adaptive Non-Linear Centroidal MPC With Stability Guarantees for Robust Locomotion of Legged Robots},
+  year={2025},
+  volume={10},
+  number={3},
+  pages={2806-2813},
+  doi={10.1109/LRA.2025.3536296}
+}
+
 @ARTICLE{fernandes25computers,
 title={Grapevine winter pruning: Merging 2D segmentation and 3D point clouds for pruning point generation},
 author={Fernandes, Miguel and Gamba, Juan D. and Pelusi, Francesco and Bratta, Angelo and Caldwell, Darwin G. and Poni, Stefano and Gatti, Matteo and Semini, Claudio},
