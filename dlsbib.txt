@@ -109,6 +109,15 @@ year = {2024}
   doi={10.1109/Humanoids58906.2024.10769911}
 }
 
+@INPROCEEDINGS{nisticò24irim,
+title=Multi-Sensor Fusion for Quadruped Robot State Estimation on Challenging Terrain,
+author=Ylenia Nisticò, João Carlos Virgolino Soares, Geoff Fink and Claudio Semini,
+booktitle=2024 I-RIM Conference,
+DOI=10.5281/zenodo.14731124,
+pages={163--165},
+year = 2024,
+organization=I-RIM
+}
 
 @INPROCEEDINGS{bussola24irim,
 author = {Bussola, Riccardo and Focchi, Michele and Zilio, Nicola and Palopoli, Luigi and Fontanelli, Daniele},
