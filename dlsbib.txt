@@ -1,3 +1,19 @@
+@INPROCEEDINGS{razavi25irim,
+title = {Online Object-Level Semantic Mapping for Quadrupeds in Real-World Environments},
+author = {Razavi, Emad and Bratta, Angelo and  Soares, Jo{\~a}o Carlos Virgolino and Recchiuto, Carmine and Semini, Claudio},
+booktitle = {2025 I-RIM 3D Conference},
+year = {2025},
+organization={I-RIM}
+}
+
+@INPROCEEDINGS{andreotti25irim,
+title = {APF-Based Control with Vortex Fields for Precise Robotic Manipulation in Grapevine Winter Pruning},
+author = {Andreotti, Michela and Fernandes, Miguel and Bratta, Angelo and Barasuol, Victor and Semini, Claudio},
+booktitle = {2025 I-RIM 3D Conference},
+year = {2025},
+organization={I-RIM}
+}
+
 @ARTICLE{elobaid2025adaptivestablempc,
   author={Elobaid, Mohamed and Turrisi, Giulio and Rapetti, Lorenzo and Romualdi, Giulio and Dafarra, Stefano and Kawakami, Tomohiro and Chaki, Tomohiro and Yoshiike, Takahide and Semini, Claudio and Pucci, Daniele},
   journal={IEEE Robotics and Automation Letters},
