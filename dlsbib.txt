@@ -1,3 +1,19 @@
+@INPROCEEDINGS{sanchezProprioceptive2025,
+  title = {Towards {{Proprioceptive Terrain Mapping}} with {{Quadruped Robots}} for {{Exploration}} in {{Planetary Permanently Shadowed Regions}}},
+  author = {{Sanchez-Delgado}, Alberto and Soares, Jo{\~a}o Carlos Virgolino and Barasuol, Victor and Semini, Claudio},
+  booktitle={International Conference on Space Robotics (iSpaRo)},
+  year = 2025,
+  doi = {10.48550/arXiv.2510.18986},
+}
+
+@INPROCEEDINGS{sanchez-delgadoAdaptive2025,
+  title = {Towards {{An Adaptive Locomotion Strategy For Quadruped Rovers}}: {{Quantifying When To Slide Or Walk On Planetary Slopes}}},
+  author = {{Sanchez-Delgado}, Alberto and Soares, Jo{\~a}o Carlos Virgolino and Tawil, David Omar Al and Noce, Alessia Li and Villa, Matteo and Barasuol, Victor and Arena, Paolo and Semini, Claudio},
+  booktitle={18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)},
+  year = 2025,
+  doi = {10.48550/arXiv.2510.18678},
+}
+
 @INPROCEEDINGS{razavi25irim,
 title = {Online Object-Level Semantic Mapping for Quadrupeds in Real-World Environments},
 author = {Razavi, Emad and Bratta, Angelo and  Soares, Jo{\~a}o Carlos Virgolino and Recchiuto, Carmine and Semini, Claudio},
