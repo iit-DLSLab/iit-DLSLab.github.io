@@ -1,3 +1,10 @@
+@INPROCEEDINGS{emre25icar,
+  author={Emre, Sinan and Barasuol, Victor and Villa, Matteo and Semini, Claudio},
+  booktitle={International Conference on Advanced Robotics (ICAR)},
+  title={Load-Based Variable Transmission Mechanism for Robotic Applications},
+  year={2025}
+}
+
 @INPROCEEDINGS{sanchezProprioceptive2025,
   title = {Towards {{Proprioceptive Terrain Mapping}} with {{Quadruped Robots}} for {{Exploration}} in {{Planetary Permanently Shadowed Regions}}},
   author = {{Sanchez-Delgado}, Alberto and Soares, Jo{\~a}o Carlos Virgolino and Barasuol, Victor and Semini, Claudio},
