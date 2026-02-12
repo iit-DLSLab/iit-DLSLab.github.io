@@ -80,6 +80,14 @@ year={2025},
 DOI={10.1016/j.compag.2025.110589}
 }
 
+@PHDTHESIS{nistico25phd,
+AUTHOR = {Nistic{\`o}, Ylenia},
+TITLE = {Enhancing State Estimation in Quadruped Robots: Multi-Sensor Fusion for Challenging Terrains},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2025},
+OWNER = {phd}
+}
+
 @ARTICLE{nistico2025muse,
 title={MUSE: A real-time multi-sensor state estimator for quadruped robots},
 author={Nistic{\`o}, Ylenia and Soares, Jo{\~a}o Carlos Virgolino and Amatucci, Lorenzo and Fink, Geoff and Semini, Claudio},
