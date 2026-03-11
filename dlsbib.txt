@@ -1,3 +1,10 @@
+@PHDTHESIS{amatucci26phd,
+AUTHOR = {Amatucci, Lorenzo}, TITLE = {Scaling Model Predictive Control for High-Dimensional Robotic Systems},
+SCHOOL = {Istituto Italiano di Tecnologia (IIT) and University of Genova},
+YEAR = {2026},
+OWNER = {phd}
+}
+
 @ARTICLE{amatucci26ral,
   author={Amatucci, Lorenzo and Sousa-Pinto, João and Turrisi, Giulio and Orban, Dominique and Barasuol, Victor and Semini, Claudio},
   journal={IEEE Robotics and Automation Letters},
